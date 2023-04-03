@@ -1,34 +1,34 @@
-makeblastdb -in ../genomes/GCF_027475565.1_dataset/ncbi_dataset/data/GCF_027475565.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_903995435.1_dataset/ncbi_dataset/data/GCF_903995435.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_002007445.2_dataset/ncbi_dataset/data/GCF_002007445.2/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_016432865.1_dataset/ncbi_dataset/data/GCF_016432865.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000952055.2_dataset/ncbi_dataset/data/GCF_000952055.2/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_947179515.1_dataset/ncbi_dataset/data/GCF_947179515.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_021234435.1_dataset/ncbi_dataset/data/GCF_021234435.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_011762505.1_dataset/ncbi_dataset/data/GCF_011762505.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_903992535.2_dataset/ncbi_dataset/data/GCF_903992535.2/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000493695.1_dataset/ncbi_dataset/data/GCF_000493695.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_009873245.2_dataset/ncbi_dataset/data/GCF_009873245.2/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000754665.1_dataset/ncbi_dataset/data/GCF_000754665.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000247795.1_dataset/ncbi_dataset/data/GCF_000247795.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000298355.1_dataset/ncbi_dataset/data/GCF_000298355.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_002263795.2_dataset/ncbi_dataset/data/GCF_002263795.2/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_019923935.1_dataset/ncbi_dataset/data/GCF_019923935.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_023091745.1_dataset/ncbi_dataset/data/GCF_023091745.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_009663435.1_dataset/ncbi_dataset/data/GCF_009663435.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_003265705.1_dataset/ncbi_dataset/data/GCF_003265705.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000767855.1_dataset/ncbi_dataset/data/GCF_000767855.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000803125.2_dataset/ncbi_dataset/data/GCF_000803125.2/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_009834535.1_dataset/ncbi_dataset/data/GCF_009834535.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_003254725.2_dataset/ncbi_dataset/data/GCF_003254725.2/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000002285.5_dataset/ncbi_dataset/data/GCF_000002285.5/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_001704415.2_dataset/ncbi_dataset/data/GCF_001704415.2/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000164805.1_dataset/ncbi_dataset/data/GCF_000164805.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_001984765.1_dataset/ncbi_dataset/data/GCF_001984765.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000151735.1_dataset/ncbi_dataset/data/GCF_000151735.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_001604975.1_dataset/ncbi_dataset/data/GCF_001604975.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000283155.1_dataset/ncbi_dataset/data/GCF_000283155.1/protein.faa -dbtype prot
-makeblastdb -in ../genomes/GCF_000955945.1_dataset/ncbi_dataset/data/GCF_000955945.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_027475565.1_dataset/ncbi_dataset/data/GCF_027475565.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_903995435.1_dataset/ncbi_dataset/data/GCF_903995435.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_002007445.2_dataset/ncbi_dataset/data/GCF_002007445.2/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_016432865.1_dataset/ncbi_dataset/data/GCF_016432865.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000952055.2_dataset/ncbi_dataset/data/GCF_000952055.2/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_947179515.1_dataset/ncbi_dataset/data/GCF_947179515.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_021234435.1_dataset/ncbi_dataset/data/GCF_021234435.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_011762505.1_dataset/ncbi_dataset/data/GCF_011762505.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_903992535.2_dataset/ncbi_dataset/data/GCF_903992535.2/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000493695.1_dataset/ncbi_dataset/data/GCF_000493695.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_009873245.2_dataset/ncbi_dataset/data/GCF_009873245.2/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000754665.1_dataset/ncbi_dataset/data/GCF_000754665.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000247795.1_dataset/ncbi_dataset/data/GCF_000247795.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000298355.1_dataset/ncbi_dataset/data/GCF_000298355.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_002263795.2_dataset/ncbi_dataset/data/GCF_002263795.2/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_019923935.1_dataset/ncbi_dataset/data/GCF_019923935.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_023091745.1_dataset/ncbi_dataset/data/GCF_023091745.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_009663435.1_dataset/ncbi_dataset/data/GCF_009663435.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_003265705.1_dataset/ncbi_dataset/data/GCF_003265705.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000767855.1_dataset/ncbi_dataset/data/GCF_000767855.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000803125.2_dataset/ncbi_dataset/data/GCF_000803125.2/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_009834535.1_dataset/ncbi_dataset/data/GCF_009834535.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_003254725.2_dataset/ncbi_dataset/data/GCF_003254725.2/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000002285.5_dataset/ncbi_dataset/data/GCF_000002285.5/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_001704415.2_dataset/ncbi_dataset/data/GCF_001704415.2/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000164805.1_dataset/ncbi_dataset/data/GCF_000164805.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_001984765.1_dataset/ncbi_dataset/data/GCF_001984765.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000151735.1_dataset/ncbi_dataset/data/GCF_000151735.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_001604975.1_dataset/ncbi_dataset/data/GCF_001604975.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000283155.1_dataset/ncbi_dataset/data/GCF_000283155.1/protein.faa -dbtype prot
+#makeblastdb -in ../genomes/GCF_000955945.1_dataset/ncbi_dataset/data/GCF_000955945.1/protein.faa -dbtype prot
 makeblastdb -in ../genomes/GCF_019320065.1_dataset/ncbi_dataset/data/GCF_019320065.1/protein.faa -dbtype prot
 makeblastdb -in ../genomes/GCF_910594005.1_dataset/ncbi_dataset/data/GCF_910594005.1/protein.faa -dbtype prot
 makeblastdb -in ../genomes/GCF_000276665.1_dataset/ncbi_dataset/data/GCF_000276665.1/protein.faa -dbtype prot
@@ -228,7 +228,7 @@ blastp -db ../genomes/GCF_001984765.1_dataset/ncbi_dataset/data/GCF_001984765.1/
 blastp -db ../genomes/GCF_000151735.1_dataset/ncbi_dataset/data/GCF_000151735.1/protein.faa -query ../genomes/chimp_cmah.fa -evalue 1e-10 -outfmt "7 qseqid sseqid evalue bitscore pident length mismatch gapopen sstart send" >> blastp_output
 blastp -db ../genomes/GCF_001604975.1_dataset/ncbi_dataset/data/GCF_001604975.1/protein.faa -query ../genomes/chimp_cmah.fa -evalue 1e-10 -outfmt "7 qseqid sseqid evalue bitscore pident length mismatch gapopen sstart send" >> blastp_output
 blastp -db ../genomes/GCF_000283155.1_dataset/ncbi_dataset/data/GCF_000283155.1/protein.faa -query ../genomes/chimp_cmah.fa -evalue 1e-10 -outfmt "7 qseqid sseqid evalue bitscore pident length mismatch gapopen sstart send" >> blastp_output
-blastp -db ../genomes/GCF_000955945.1_dataset/ncbi_dataset/data/GCF_000955945.1/protein.faa -query ../genomes/chimp_cmah.fa -evalue 1e-10 -outfmt "7 qseqid sseqid evalue bitscore pident length mismatch gapopen sstart send" >> blastp_output
+#blastp -db ../genomes/GCF_000955945.1_dataset/ncbi_dataset/data/GCF_000955945.1/protein.faa -query ../genomes/chimp_cmah.fa -evalue 1e-10 -outfmt "7 qseqid sseqid evalue bitscore pident length mismatch gapopen sstart send" >> blastp_output
 blastp -db ../genomes/GCF_019320065.1_dataset/ncbi_dataset/data/GCF_019320065.1/protein.faa -query ../genomes/chimp_cmah.fa -evalue 1e-10 -outfmt "7 qseqid sseqid evalue bitscore pident length mismatch gapopen sstart send" >> blastp_output
 blastp -db ../genomes/GCF_910594005.1_dataset/ncbi_dataset/data/GCF_910594005.1/protein.faa -query ../genomes/chimp_cmah.fa -evalue 1e-10 -outfmt "7 qseqid sseqid evalue bitscore pident length mismatch gapopen sstart send" >> blastp_output
 blastp -db ../genomes/GCF_000276665.1_dataset/ncbi_dataset/data/GCF_000276665.1/protein.faa -query ../genomes/chimp_cmah.fa -evalue 1e-10 -outfmt "7 qseqid sseqid evalue bitscore pident length mismatch gapopen sstart send" >> blastp_output
