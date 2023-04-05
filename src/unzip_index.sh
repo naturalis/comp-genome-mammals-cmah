@@ -1,4 +1,4 @@
-###
+###(
 unzip -d GCF_027475565.1_dataset GCF_027475565.1.zip
 unzip -d GCF_903995435.1_dataset GCF_903995435.1.zip
 unzip -d GCF_002007445.2_dataset GCF_002007445.2.zip
@@ -198,7 +198,7 @@ unzip -d GCF_900497805.2_dataset GCF_900497805.2.zip
 unzip -d GCF_018345385.1_dataset GCF_018345385.1.zip
 unzip -d GCF_003160815.1_dataset GCF_003160815.1.zip
 unzip -d GCF_009762305.2_dataset GCF_009762305.2.zip
-###
+)###
 
 samtools faidx GCF_027475565.1_dataset/ncbi_dataset/data/GCF_027475565.1/protein.faa
 samtools faidx GCF_903995435.1_dataset/ncbi_dataset/data/GCF_903995435.1/protein.faa
