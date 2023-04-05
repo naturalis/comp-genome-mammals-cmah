@@ -399,3 +399,4 @@ samtools faidx GCF_900497805.2_dataset/ncbi_dataset/data/GCF_900497805.2/protein
 samtools faidx GCF_018345385.1_dataset/ncbi_dataset/data/GCF_018345385.1/protein.faa
 samtools faidx GCF_003160815.1_dataset/ncbi_dataset/data/GCF_003160815.1/protein.faa
 samtools faidx GCF_009762305.2_dataset/ncbi_dataset/data/GCF_009762305.2/protein.faa
+'
