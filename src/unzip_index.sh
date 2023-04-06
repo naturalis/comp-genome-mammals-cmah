@@ -1,3 +1,4 @@
+: '
 unzip -d GCA_027475565.2_dataset GCA_027475565.2.zip
 unzip -d GCA_004027535.1_dataset GCA_004027535.1.zip
 unzip -d GCA_907164435.1_dataset GCA_907164435.1.zip
@@ -320,6 +321,7 @@ unzip -d GCA_003676075.3_dataset GCA_003676075.3.zip
 unzip -d GCA_005280165.1_dataset GCA_005280165.1.zip
 unzip -d GCA_001458135.2_dataset GCA_001458135.2.zip
 unzip -d GCF_021218885.1_dataset GCF_021218885.1.zip
+'
 unzip -d GCA_005458795.1_dataset GCA_005458795.1.zip
 unzip -d GCA_012583365.1_dataset GCA_012583365.1.zip
 unzip -d GCA_008632895.1_dataset GCA_008632895.1.zip
