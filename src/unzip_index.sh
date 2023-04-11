@@ -6,5 +6,5 @@ samtools faidx GCA_024166365.1_dataset/ncbi_dataset/data/GCA_024166365.1/GCA_024
 samtools faidx GCA_026419965.1_dataset/ncbi_dataset/data/GCA_026419965.1/GCA_026419965.1_mKogBre1_haplotype_1_genomic.fna
 samtools faidx GCA_922984935.1_dataset/ncbi_dataset/data/GCA_922984935.1/GCA_922984935.1_mMelMel3.1_paternal_haplotype_genomic.fna
 samtools faidx GCA_025265405.1_dataset/ncbi_dataset/data/GCA_025265405.1/GCA_025265405.1_mMesDen1_primary_haplotype_genomic.fna
-samtools faidx GCA_028583565.1_dataset/ncbi_dataset/data/GCA_028583565.1/GCA_028583565.1_CAU_O.ammon polii_1.0_genomic.fna
+samtools faidx GCA_028583565.1_dataset/ncbi_dataset/data/GCA_028583565.1/GCA_028583565.1_CAU_O.ammon_polii_1.0_genomic.fna
 samtools faidx GCA_900497805.2_dataset/ncbi_dataset/data/GCA_900497805.2/GCA_900497805.2_bare-nosed_wombat_genome_assembly_genomic.fna
