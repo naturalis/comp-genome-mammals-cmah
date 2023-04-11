@@ -1,10 +1,4 @@
-#unzip -d GCA_027475565.2_dataset GCA_027475565.2.zip
+unzip -d GCA_027475565.2_dataset GCA_027475565.2.zip
 
-samtools faidx GCA_001984765.1_dataset/ncbi_dataset/data/GCA_001984765.1/GCA_001984765.1_C.can_genome_v1.0_genomic.fna
-samtools faidx GCA_021461705.1_dataset/ncbi_dataset/data/GCA_021461705.1/GCA_021461705.1_Cryptotis_parva_assembly_1.0_genomic.fna
-samtools faidx GCA_024166365.1_dataset/ncbi_dataset/data/GCA_024166365.1/GCA_024166365.1_mEleMax1_primary_haplotype_genomic.fna
-samtools faidx GCA_026419965.1_dataset/ncbi_dataset/data/GCA_026419965.1/GCA_026419965.1_mKogBre1_haplotype_1_genomic.fna
-samtools faidx GCA_922984935.1_dataset/ncbi_dataset/data/GCA_922984935.1/GCA_922984935.1_mMelMel3.1_paternal_haplotype_genomic.fna
-samtools faidx GCA_025265405.1_dataset/ncbi_dataset/data/GCA_025265405.1/GCA_025265405.1_mMesDen1_primary_haplotype_genomic.fna
-samtools faidx GCA_028583565.1_dataset/ncbi_dataset/data/GCA_028583565.1/GCA_028583565.1_CAU_O.ammon_polii_1.0_genomic.fna
-samtools faidx GCA_900497805.2_dataset/ncbi_dataset/data/GCA_900497805.2/GCA_900497805.2_bare-nosed_wombat_genome_assembly_genomic.fna
+samtools faidx GCA_027475565.2_dataset/ncbi_dataset/data/GCA_027475565.2/GCA_027475565.2_VMU_Ajub_asm_v1.0_genomic.fna
+
