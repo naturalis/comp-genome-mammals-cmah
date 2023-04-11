@@ -1,747 +1,160 @@
 #unzip -d GCA_027475565.2_dataset GCA_027475565.2.zip
 
-samtools faidx GCA_027475565.2_dataset/ncbi_dataset/data/GCA_027475565.2/GCA_027475565.2_VMU_Ajub_asm_v1.0_genomic.fna
-samtools faidx GCA_004027535.1_dataset/ncbi_dataset/data/GCA_004027535.1/GCA_004027535.1_AcoCah_v1_BIUU_genomic.fna
-samtools faidx GCA_907164435.1_dataset/ncbi_dataset/data/GCA_907164435.1/GCA_907164435.1_mAcoDim1_REL_1905_genomic.fna
-samtools faidx GCA_907164505.1_dataset/ncbi_dataset/data/GCA_907164505.1/GCA_907164505.1_mAcoKem2_REL_1905_genomic.fna
-samtools faidx GCA_907169655.1_dataset/ncbi_dataset/data/GCA_907169655.1/GCA_907169655.1_mAcoPer2_REL_1905_genomic.fna
-samtools faidx GCA_903995435.1_dataset/ncbi_dataset/data/GCA_903995435.1/GCA_903995435.1_mAcoRus1.1_genomic.fna
-samtools faidx GCA_904813335.1_dataset/ncbi_dataset/data/GCA_904813335.1/GCA_904813335.1_ERS5079794 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_019593525.1_dataset/ncbi_dataset/data/GCA_019593525.1/GCA_019593525.1_ASM1959352v1_genomic.fna
-samtools faidx GCA_011751065.1_dataset/ncbi_dataset/data/GCA_011751065.1/GCA_011751065.1_L.cinereus_Cryan_1219_p1.0_genomic.fna
-samtools faidx GCA_006408695.1_dataset/ncbi_dataset/data/GCA_006408695.1/GCA_006408695.1_IMP_genomic.fna
-samtools faidx GCA_904813175.1_dataset/ncbi_dataset/data/GCA_904813175.1/GCA_904813175.1_ERS5079784 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_002007445.3_dataset/ncbi_dataset/data/GCA_002007445.3/GCA_002007445.3_ASM200744v3_genomic.fna
-samtools faidx GCA_002007465.1_dataset/ncbi_dataset/data/GCA_002007465.1/GCA_002007465.1_ASM200746v1_genomic.fna
-samtools faidx GCA_006408545.1_dataset/ncbi_dataset/data/GCA_006408545.1/GCA_006408545.1_HBT_genomic.fna
-samtools faidx GCA_007570765.1_dataset/ncbi_dataset/data/GCA_007570765.1/GCA_007570765.1_GSC_moose_1.0_genomic.fna
-samtools faidx GCA_004027835.1_dataset/ncbi_dataset/data/GCA_004027835.1/GCA_004027835.1_AloPal_v1_BIUU_genomic.fna
-samtools faidx GCA_002201775.1_dataset/ncbi_dataset/data/GCA_002201775.1/GCA_002201775.1_ALER1.0_genomic.fna
-samtools faidx GCA_004027475.1_dataset/ncbi_dataset/data/GCA_004027475.1/GCA_004027475.1_AnoCau_v1_BIUU_genomic.fna
-samtools faidx GCA_904810915.1_dataset/ncbi_dataset/data/GCA_904810915.1/GCA_904810915.1_ERS5079555 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904814085.1_dataset/ncbi_dataset/data/GCA_904814085.1/GCA_904814085.1_ERS5079871 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813565.1_dataset/ncbi_dataset/data/GCA_904813565.1/GCA_904813565.1_ERS5079823 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_016432865.2_dataset/ncbi_dataset/data/GCA_016432865.2/GCA_016432865.2_AdamAnt_v2_genomic.fna
-samtools faidx GCA_904810635.1_dataset/ncbi_dataset/data/GCA_904810635.1/GCA_904810635.1_ERS5079535 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813635.1_dataset/ncbi_dataset/data/GCA_904813635.1/GCA_904813635.1_ERS5079827 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810935.1_dataset/ncbi_dataset/data/GCA_904810935.1/GCA_904810935.1_ERS5079557 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904814075.1_dataset/ncbi_dataset/data/GCA_904814075.1/GCA_904814075.1_ERS5079872 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_016696395.1_dataset/ncbi_dataset/data/GCA_016696395.1/GCA_016696395.1_USYD_AStu_M_genomic.fna
-samtools faidx GCA_006408585.1_dataset/ncbi_dataset/data/GCA_006408585.1/GCA_006408585.1_SGB_genomic.fna
-samtools faidx GCA_007570785.1_dataset/ncbi_dataset/data/GCA_007570785.1/GCA_007570785.1_GSC_phorn_1.0_genomic.fna
-samtools faidx GCA_027563665.1_dataset/ncbi_dataset/data/GCA_027563665.1/GCA_027563665.1_DD_ASM_mAP_20210503_genomic.fna
-samtools faidx GCA_000952055.2_dataset/ncbi_dataset/data/GCA_000952055.2/GCA_000952055.2_Anan_2.0_genomic.fna
-samtools faidx GCA_004027875.1_dataset/ncbi_dataset/data/GCA_004027875.1/GCA_004027875.1_AplRuf_v1_BIUU_genomic.fna
-samtools faidx GCA_002335545.1_dataset/ncbi_dataset/data/GCA_002335545.1/GCA_002335545.1_Aspe_assembly01_genomic.fna
-samtools faidx GCA_947179515.1_dataset/ncbi_dataset/data/GCA_947179515.1/GCA_947179515.1_mApoSyl1.1_genomic.fna
-samtools faidx GCA_900642305.1_dataset/ncbi_dataset/data/GCA_900642305.1/GCA_900642305.1_arcGaz3_genomic.fna
-samtools faidx GCA_028646355.1_dataset/ncbi_dataset/data/GCA_028646355.1/GCA_028646355.1_Arctocephalus_townsendi_HiC_genomic.fna
-samtools faidx GCA_021234435.1_dataset/ncbi_dataset/data/GCA_021234435.1/GCA_021234435.1_CSHL_Jam_final_genomic.fna
-samtools faidx GCA_011762505.1_dataset/ncbi_dataset/data/GCA_011762505.1/GCA_011762505.1_mArvNil1.pat.X_genomic.fna
-samtools faidx GCA_903992535.2_dataset/ncbi_dataset/data/GCA_903992535.2/GCA_903992535.2_mArvAmp1.2_genomic.fna
-samtools faidx GCA_023783555.1_dataset/ncbi_dataset/data/GCA_023783555.1/GCA_023783555.1_ASM2378355v1_genomic.fna
-samtools faidx GCA_916098195.1_dataset/ncbi_dataset/data/GCA_916098195.1/GCA_916098195.1_ORGONE_01_genomic.fna
-samtools faidx GCA_003798545.1_dataset/ncbi_dataset/data/GCA_003798545.1/GCA_003798545.1_ASM379854v1_genomic.fna
-samtools faidx GCA_028533215.1_dataset/ncbi_dataset/data/GCA_028533215.1/GCA_028533215.1_Babyrousa_celebensis_HiC_genomic.fna
-samtools faidx GCA_000493695.1_dataset/ncbi_dataset/data/GCA_000493695.1/GCA_000493695.1_BalAcu1.0_genomic.fna
-samtools faidx GCA_000978805.1_dataset/ncbi_dataset/data/GCA_000978805.1/GCA_000978805.1_ASM97880v1_genomic.fna
-samtools faidx GCA_009873245.3_dataset/ncbi_dataset/data/GCA_009873245.3/GCA_009873245.3_mBalMus1.pri.v3_genomic.fna
-samtools faidx GCA_023338255.1_dataset/ncbi_dataset/data/GCA_023338255.1/GCA_023338255.1_SBiKF_Bphy_ph2_genomic.fna
-samtools faidx GCA_028023285.1_dataset/ncbi_dataset/data/GCA_028023285.1/GCA_028023285.1_mBalRic1.hap2_genomic.fna
-samtools faidx GCA_004027495.1_dataset/ncbi_dataset/data/GCA_004027495.1/GCA_004027495.1_BeaHun_v1_BIUU_genomic.fna
-samtools faidx GCA_904812045.1_dataset/ncbi_dataset/data/GCA_904812045.1/GCA_904812045.1_ERS5079571 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810735.1_dataset/ncbi_dataset/data/GCA_904810735.1/GCA_904810735.1_ERS5079539 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813165.1_dataset/ncbi_dataset/data/GCA_904813165.1/GCA_904813165.1_ERS5079780 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813155.1_dataset/ncbi_dataset/data/GCA_904813155.1/GCA_904813155.1_ERS5079779 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_023548195.1_dataset/ncbi_dataset/data/GCA_023548195.1/GCA_023548195.1_mBetpen1.pri.20210916_genomic.fna
-samtools faidx GCA_904814315.1_dataset/ncbi_dataset/data/GCA_904814315.1/GCA_904814315.1_ERS5079895 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_000754665.1_dataset/ncbi_dataset/data/GCA_000754665.1/GCA_000754665.1_Bison_UMD1.0_genomic.fna
-samtools faidx GCA_007844835.1_dataset/ncbi_dataset/data/GCA_007844835.1/GCA_007844835.1_NRC_Mithun_1_genomic.fna
-samtools faidx GCA_014182915.2_dataset/ncbi_dataset/data/GCA_014182915.2/GCA_014182915.2_ARS_UOA_Gaur_1.1_genomic.fna
-samtools faidx GCA_005887515.3_dataset/ncbi_dataset/data/GCA_005887515.3/GCA_005887515.3_BosGru3.1_genomic.fna
-samtools faidx GCA_000247795.2_dataset/ncbi_dataset/data/GCA_000247795.2/GCA_000247795.2_Bos_indicus_1.0_genomic.fna
-samtools faidx GCF_000298355.1_dataset/ncbi_dataset/data/GCF_000298355.1/GCF_000298355.1_BosGru_v2.0_genomic.fna
-samtools faidx GCA_002263795.3_dataset/ncbi_dataset/data/GCA_002263795.3/GCA_002263795.3_ARS-UCD1.3_genomic.fna
-samtools faidx GCA_004027775.1_dataset/ncbi_dataset/data/GCA_004027775.1/GCA_004027775.1_BraVar_v1_BIUU_genomic.fna
-samtools faidx GCA_019923935.1_dataset/ncbi_dataset/data/GCA_019923935.1/GCA_019923935.1_NDDB_SH_1_genomic.fna
-samtools faidx GCA_025584935.1_dataset/ncbi_dataset/data/GCA_025584935.1/GCA_025584935.1_MNHNYannick_LA_1_genomic.fna
-samtools faidx GCA_023091745.2_dataset/ncbi_dataset/data/GCA_023091745.2/GCA_023091745.2_Takin1.1_genomic.fna
-samtools faidx GCA_904813065.1_dataset/ncbi_dataset/data/GCA_904813065.1/GCA_904813065.1_ERS5079774 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_009663435.2_dataset/ncbi_dataset/data/GCA_009663435.2/GCA_009663435.2_Callithrix_jacchus_cj1700_1.1_genomic.fna
-samtools faidx GCA_003265705.1_dataset/ncbi_dataset/data/GCA_003265705.1/GCA_003265705.1_ASM326570v1_genomic.fna
-samtools faidx GCA_904811975.1_dataset/ncbi_dataset/data/GCA_904811975.1/GCA_904811975.1_ERS5079573 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810665.1_dataset/ncbi_dataset/data/GCA_904810665.1/GCA_904810665.1_ERS5079519 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_000767855.1_dataset/ncbi_dataset/data/GCA_000767855.1/GCA_000767855.1_Ca_bactrianus_MBC_1.0_genomic.fna
-samtools faidx GCA_000803125.3_dataset/ncbi_dataset/data/GCA_000803125.3/GCA_000803125.3_CamDro3_genomic.fna
-samtools faidx GCA_009834535.1_dataset/ncbi_dataset/data/GCA_009834535.1/GCA_009834535.1_BCGSAC_Cfer_1.0_genomic.fna
-samtools faidx GCA_905319855.2_dataset/ncbi_dataset/data/GCA_905319855.2/GCA_905319855.2_mCanLor1.2_genomic.fna
-samtools faidx GCA_003254725.2_dataset/ncbi_dataset/data/GCA_003254725.2/GCA_003254725.2_ASM325472v2_genomic.fna
-samtools faidx GCA_000002285.4_dataset/ncbi_dataset/data/GCA_000002285.4/GCA_000002285.4_Dog10K_Boxer_Tasha_genomic.fna
-samtools faidx GCA_000978405.1_dataset/ncbi_dataset/data/GCA_000978405.1/GCA_000978405.1_CapAeg_1.0_genomic.fna
-samtools faidx GCA_001704415.2_dataset/ncbi_dataset/data/GCA_001704415.2/GCA_001704415.2_ARS1.2_genomic.fna
-samtools faidx GCA_006410555.1_dataset/ncbi_dataset/data/GCA_006410555.1/GCA_006410555.1_IBX_genomic.fna
-samtools faidx GCA_003182615.2_dataset/ncbi_dataset/data/GCA_003182615.2/GCA_003182615.2_ASM318261v2_genomic.fna
-samtools faidx GCA_000751575.1_dataset/ncbi_dataset/data/GCA_000751575.1/GCA_000751575.1_kmer631_genomic.fna
-samtools faidx GCA_012922965.1_dataset/ncbi_dataset/data/GCA_012922965.1/GCA_012922965.1_ASM1292296v1_genomic.fna
-samtools faidx GCA_004027915.1_dataset/ncbi_dataset/data/GCA_004027915.1/GCA_004027915.1_CapPil_v1_BIUU_genomic.fna
-samtools faidx GCA_016801355.1_dataset/ncbi_dataset/data/GCA_016801355.1/GCA_016801355.1_CarCar1.0_genomic.fna
-samtools faidx GCA_000164805.2_dataset/ncbi_dataset/data/GCA_000164805.2/GCA_000164805.2_Tarsius_syrichta-2.0.1_genomic.fna
-samtools faidx GCA_004027735.1_dataset/ncbi_dataset/data/GCA_004027735.1/GCA_004027735.1_CarPer_v1_BIUU_genomic.fna
-samtools faidx GCA_001984765.1_dataset/ncbi_dataset/data/GCA_001984765.1/GCA_001984765.1_C.can genome v1.0_genomic.fna
-samtools faidx GCA_004024745.2_dataset/ncbi_dataset/data/GCA_004024745.2/GCA_004024745.2_CatWag_v2_BIUU_UCD_genomic.fna
-samtools faidx GCA_000688575.1_dataset/ncbi_dataset/data/GCA_000688575.1/GCA_000688575.1_CavAp1.0_genomic.fna
-samtools faidx GCA_000151735.1_dataset/ncbi_dataset/data/GCA_000151735.1/GCA_000151735.1_Cavpor3.0_genomic.fna
-samtools faidx GCA_004027695.1_dataset/ncbi_dataset/data/GCA_004027695.1/GCA_004027695.1_CavTsc_v1_BIUU_genomic.fna
-samtools faidx GCA_023783575.1_dataset/ncbi_dataset/data/GCA_023783575.1/GCA_023783575.1_ASM2378357v1_genomic.fna
-samtools faidx GCA_001604975.1_dataset/ncbi_dataset/data/GCA_001604975.1/GCA_001604975.1_Cebus_imitator-1.0_genomic.fna
-samtools faidx GCA_027257055.1_dataset/ncbi_dataset/data/GCA_027257055.1/GCA_027257055.1_ASM2725705v1_genomic.fna
-samtools faidx GCA_006410635.1_dataset/ncbi_dataset/data/GCA_006410635.1/GCA_006410635.1_HVD_genomic.fna
-samtools faidx GCA_021442165.1_dataset/ncbi_dataset/data/GCA_021442165.1/GCA_021442165.1_CerSimCot1.0_genomic.fna
-samtools faidx GCA_000283155.1_dataset/ncbi_dataset/data/GCA_000283155.1/GCA_000283155.1_CerSimSim1.0_genomic.fna
-samtools faidx GCA_904811095.1_dataset/ncbi_dataset/data/GCA_904811095.1/GCA_904811095.1_ERS5079576 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810795.1_dataset/ncbi_dataset/data/GCA_904810795.1/GCA_904810795.1_ERS5079553 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810685.1_dataset/ncbi_dataset/data/GCA_904810685.1/GCA_904810685.1_ERS5079522 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813375.1_dataset/ncbi_dataset/data/GCA_904813375.1/GCA_904813375.1_ERS5079800 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_000955945.1_dataset/ncbi_dataset/data/GCA_000955945.1/GCA_000955945.1_Caty_1.0_genomic.fna
-samtools faidx GCA_023783535.1_dataset/ncbi_dataset/data/GCA_023783535.1/GCA_023783535.1_ASM2378353v1_genomic.fna
-samtools faidx GCA_028627265.1_dataset/ncbi_dataset/data/GCA_028627265.1/GCA_028627265.1_Cercopithecus_mitis_HiC_genomic.fna
-samtools faidx GCA_014849445.1_dataset/ncbi_dataset/data/GCA_014849445.1/GCA_014849445.1_KIZ_CMon_1.0_genomic.fna
-samtools faidx GCA_004027615.1_dataset/ncbi_dataset/data/GCA_004027615.1/GCA_004027615.1_CertNeg_v1_BIUU_genomic.fna
-samtools faidx GCA_006408465.1_dataset/ncbi_dataset/data/GCA_006408465.1/GCA_006408465.1_WLD_genomic.fna
-samtools faidx GCA_019320065.1_dataset/ncbi_dataset/data/GCA_019320065.1/GCA_019320065.1_ASM1932006v1_genomic.fna
-samtools faidx GCA_910594005.1_dataset/ncbi_dataset/data/GCA_910594005.1/GCA_910594005.1_mCerEla1.1_genomic.fna
-samtools faidx GCA_010411085.1_dataset/ncbi_dataset/data/GCA_010411085.1/GCA_010411085.1_CEY_v1_genomic.fna
-samtools faidx GCA_004027955.1_dataset/ncbi_dataset/data/GCA_004027955.1/GCA_004027955.1_ChaVel_v1_BIUU_genomic.fna
-samtools faidx GCA_008086735.1_dataset/ncbi_dataset/data/GCA_008086735.1/GCA_008086735.1_ASM808673v1_genomic.fna
-samtools faidx GCA_000276665.1_dataset/ncbi_dataset/data/GCA_000276665.1/GCA_000276665.1_ChiLan1.0_genomic.fna
-samtools faidx GCA_023783515.1_dataset/ncbi_dataset/data/GCA_023783515.1/GCA_023783515.1_ASM2378351v1_genomic.fna
-samtools faidx GCA_015252025.1_dataset/ncbi_dataset/data/GCA_015252025.1/GCA_015252025.1_Vero_WHO_p1.0_genomic.fna
-samtools faidx GCA_015220235.1_dataset/ncbi_dataset/data/GCA_015220235.1/GCA_015220235.1_mChoDid1.pri_genomic.fna
-samtools faidx GCA_000164785.2_dataset/ncbi_dataset/data/GCA_000164785.2/GCA_000164785.2_C_hoffmanni-2.0.1_genomic.fna
-samtools faidx GCA_000296735.1_dataset/ncbi_dataset/data/GCA_000296735.1/GCA_000296735.1_ChrAsi1.0_genomic.fna
-samtools faidx GCA_028533335.1_dataset/ncbi_dataset/data/GCA_028533335.1/GCA_028533335.1_Chrysocyon_brachyurus_HiC_genomic.fna
-samtools faidx GCA_028534165.1_dataset/ncbi_dataset/data/GCA_028534165.1/GCA_028534165.1_Coendou_prehensilis_HiC_genomic.fna
-samtools faidx GCA_000951035.1_dataset/ncbi_dataset/data/GCA_000951035.1/GCA_000951035.1_Cang.pa_1.0_genomic.fna
-samtools faidx GCA_021498455.1_dataset/ncbi_dataset/data/GCA_021498455.1/GCA_021498455.1_ASM2149845v1_genomic.fna
-samtools faidx GCA_000260355.1_dataset/ncbi_dataset/data/GCA_000260355.1/GCA_000260355.1_ConCri1.0_genomic.fna
-samtools faidx GCA_006408615.1_dataset/ncbi_dataset/data/GCA_006408615.1/GCA_006408615.1_BWD_genomic.fna
-samtools faidx GCA_026230045.1_dataset/ncbi_dataset/data/GCA_026230045.1/GCA_026230045.1_mCorTow1.0.hap2_genomic.fna
-samtools faidx GCA_004027555.1_dataset/ncbi_dataset/data/GCA_004027555.1/GCA_004027555.1_CraTho_v1_BIUU_genomic.fna
-samtools faidx GCA_026225945.1_dataset/ncbi_dataset/data/GCA_026225945.1/GCA_026225945.1_Cans_v1.0_COR_genomic.fna
-samtools faidx GCA_004027575.1_dataset/ncbi_dataset/data/GCA_004027575.1/GCA_004027575.1_CriGam_v1_BIUU_genomic.fna
-samtools faidx GCF_000223135.1_dataset/ncbi_dataset/data/GCF_000223135.1/GCF_000223135.1_CriGri_1.0_genomic.fna
-samtools faidx GCA_004027635.1_dataset/ncbi_dataset/data/GCA_004027635.1/GCA_004027635.1_CroInd_v1_BIUU_genomic.fna
-samtools faidx GCA_008692635.1_dataset/ncbi_dataset/data/GCA_008692635.1/GCA_008692635.1_BGI_CrCroc_1.0_genomic.fna
-samtools faidx GCA_028646485.1_dataset/ncbi_dataset/data/GCA_028646485.1/GCA_028646485.1_Cryptoprocta_ferox_HiC_genomic.fna
-samtools faidx GCA_021461705.1_dataset/ncbi_dataset/data/GCA_021461705.1/GCA_021461705.1_Cryptotis parva assembly 1.0_genomic.fna
-samtools faidx GCA_004027205.1_dataset/ncbi_dataset/data/GCA_004027205.1/GCA_004027205.1_CteGun_v1_BIUU_genomic.fna
-samtools faidx GCA_004027165.1_dataset/ncbi_dataset/data/GCA_004027165.1/GCA_004027165.1_CteSoc_v1_BIUU_genomic.fna
-samtools faidx GCA_004365215.1_dataset/ncbi_dataset/data/GCA_004365215.1/GCA_004365215.1_CunPac_v1_BIUU_genomic.fna
-samtools faidx GCA_027409185.1_dataset/ncbi_dataset/data/GCA_027409185.1/GCA_027409185.1_mCynVol1.pri_genomic.fna
-samtools faidx GCA_011316645.1_dataset/ncbi_dataset/data/GCA_011316645.1/GCA_011316645.1_ASM1131664v1_genomic.fna
-samtools faidx GCA_009793145.1_dataset/ncbi_dataset/data/GCA_009793145.1/GCA_009793145.1_ASM979314v1_genomic.fna
-samtools faidx GCA_904810675.1_dataset/ncbi_dataset/data/GCA_904810675.1/GCA_904810675.1_ERS5079526 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811055.1_dataset/ncbi_dataset/data/GCA_904811055.1/GCA_904811055.1_ERS5079588 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_006408505.1_dataset/ncbi_dataset/data/GCA_006408505.1/GCA_006408505.1_CTB_genomic.fna
-samtools faidx GCA_904814135.1_dataset/ncbi_dataset/data/GCA_904814135.1/GCA_904814135.1_ERS5079874 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813795.1_dataset/ncbi_dataset/data/GCA_904813795.1/GCA_904813795.1_ERS5079844 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810525.1_dataset/ncbi_dataset/data/GCA_904810525.1/GCA_904810525.1_ERS5079531 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004363535.1_dataset/ncbi_dataset/data/GCA_004363535.1/GCA_004363535.1_DasPun_v1_BIUU_genomic.fna
-samtools faidx GCA_000208655.4_dataset/ncbi_dataset/data/GCA_000208655.4/GCA_000208655.4_Dasnov3.2_genomic.fna
-samtools faidx GCA_904810555.1_dataset/ncbi_dataset/data/GCA_904810555.1/GCA_904810555.1_ERS5079521 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813945.1_dataset/ncbi_dataset/data/GCA_904813945.1/GCA_904813945.1_ERS5079853 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813095.1_dataset/ncbi_dataset/data/GCA_904813095.1/GCA_904813095.1_ERS5079771 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810955.1_dataset/ncbi_dataset/data/GCA_904810955.1/GCA_904810955.1_ERS5079559 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813185.1_dataset/ncbi_dataset/data/GCA_904813185.1/GCA_904813185.1_ERS5079781 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_020854095.1_dataset/ncbi_dataset/data/GCA_020854095.1/GCA_020854095.1_UniMelb_DasViv_v1.0_genomic.fna
-samtools faidx GCA_023783475.1_dataset/ncbi_dataset/data/GCA_023783475.1/GCA_023783475.1_ASM2378347v1_genomic.fna
-samtools faidx GCA_002288925.3_dataset/ncbi_dataset/data/GCA_002288925.3/GCA_002288925.3_ASM228892v3_genomic.fna
-samtools faidx GCA_904810745.1_dataset/ncbi_dataset/data/GCA_904810745.1/GCA_904810745.1_ERS5079541 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_022682495.1_dataset/ncbi_dataset/data/GCA_022682495.1/GCA_022682495.1_HLdesRot8A_genomic.fna
-samtools faidx GCA_014189135.1_dataset/ncbi_dataset/data/GCA_014189135.1/GCA_014189135.1_NRM_Dsumatrensis_v1.fasta_genomic.fna
-samtools faidx GCA_002844835.1_dataset/ncbi_dataset/data/GCA_002844835.1/GCA_002844835.1_ASM284483v1_genomic.fna
-samtools faidx GCA_028533375.1_dataset/ncbi_dataset/data/GCA_028533375.1/GCA_028533375.1_Diceros_bicornis_HiC_genomic.fna
-samtools faidx GCA_020826845.1_dataset/ncbi_dataset/data/GCA_020826845.1/GCA_020826845.1_mDicBic1.mat.cur_genomic.fna
-samtools faidx GCA_028555095.1_dataset/ncbi_dataset/data/GCA_028555095.1/GCA_028555095.1_ASM2855509v1_genomic.fna
-samtools faidx GCA_004027595.1_dataset/ncbi_dataset/data/GCA_004027595.1/GCA_004027595.1_DinBra_v1_BIUU_genomic.fna
-samtools faidx GCA_024711535.1_dataset/ncbi_dataset/data/GCA_024711535.1/GCA_024711535.1_mDipMer1.0.p_genomic.fna
-samtools faidx GCA_000151885.2_dataset/ncbi_dataset/data/GCA_000151885.2/GCA_000151885.2_Dord_2.0_genomic.fna
-samtools faidx GCA_019054845.1_dataset/ncbi_dataset/data/GCA_019054845.1/GCA_019054845.1_ASM1905484v1_genomic.fna
-samtools faidx GCA_004024685.1_dataset/ncbi_dataset/data/GCA_004024685.1/GCA_004024685.1_DipSte_v1_BIUU_genomic.fna
-samtools faidx GCA_904813465.1_dataset/ncbi_dataset/data/GCA_904813465.1/GCA_904813465.1_ERS5079812 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004027295.1_dataset/ncbi_dataset/data/GCA_004027295.1/GCA_004027295.1_DolPat_v1_BIUU_genomic.fna
-samtools faidx GCA_904813915.1_dataset/ncbi_dataset/data/GCA_904813915.1/GCA_904813915.1_ERS5079856 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813395.1_dataset/ncbi_dataset/data/GCA_904813395.1/GCA_904813395.1_ERS5079802 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_019393635.1_dataset/ncbi_dataset/data/GCA_019393635.1/GCA_019393635.1_mDroGli1.pri_genomic.fna
-samtools faidx GCA_905400935.1_dataset/ncbi_dataset/data/GCA_905400935.1/GCA_905400935.1_Dugong_genomic.fna
-samtools faidx GCA_000313985.2_dataset/ncbi_dataset/data/GCA_000313985.2/GCA_000313985.2_ASM31398v2_genomic.fna
-samtools faidx GCA_904812085.1_dataset/ncbi_dataset/data/GCA_904812085.1/GCA_904812085.1_ERS5079574 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813385.1_dataset/ncbi_dataset/data/GCA_904813385.1/GCA_904813385.1_ERS5079801 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811145.1_dataset/ncbi_dataset/data/GCA_904811145.1/GCA_904811145.1_ERS5079581 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028627145.1_dataset/ncbi_dataset/data/GCA_028627145.1/GCA_028627145.1_Eidolon_dupreanum_HiC_genomic.fna
-samtools faidx GCA_000465285.1_dataset/ncbi_dataset/data/GCA_000465285.1/GCA_000465285.1_ASM46528v1_genomic.fna
-samtools faidx GCA_020311275.1_dataset/ncbi_dataset/data/GCA_020311275.1/GCA_020311275.1_ASM2031127v1_genomic.fna
-samtools faidx GCA_021018665.1_dataset/ncbi_dataset/data/GCA_021018665.1/GCA_021018665.1_miluL_genomic.fna
-samtools faidx GCA_000299155.1_dataset/ncbi_dataset/data/GCA_000299155.1/GCA_000299155.1_EleEdw1.0_genomic.fna
-samtools faidx GCA_014332765.1_dataset/ncbi_dataset/data/GCA_014332765.1/GCA_014332765.1_ASM1433276v1_genomic.fna
-samtools faidx GCA_024166365.1_dataset/ncbi_dataset/data/GCA_024166365.1/GCA_024166365.1_mEleMax1 primary haplotype_genomic.fna
-samtools faidx GCA_001685075.1_dataset/ncbi_dataset/data/GCA_001685075.1/GCA_001685075.1_ASM168507v1_genomic.fna
-samtools faidx GCA_001685095.1_dataset/ncbi_dataset/data/GCA_001685095.1/GCA_001685095.1_ETalpinus_0.1_genomic.fna
-samtools faidx GCA_002288905.2_dataset/ncbi_dataset/data/GCA_002288905.2/GCA_002288905.2_ASM228890v2_genomic.fna
-samtools faidx GCA_006410715.1_dataset/ncbi_dataset/data/GCA_006410715.1/GCA_006410715.1_ASM641071v1_genomic.fna
-samtools faidx GCA_003508835.1_dataset/ncbi_dataset/data/GCA_003508835.1/GCA_003508835.1_Espe.v1_genomic.fna
-samtools faidx GCA_000308155.1_dataset/ncbi_dataset/data/GCA_000308155.1/GCA_000308155.1_EptFus1.0_genomic.fna
-samtools faidx GCA_016077325.2_dataset/ncbi_dataset/data/GCA_016077325.2/GCA_016077325.2_ASM1607732v2_genomic.fna
-samtools faidx GCA_002863925.1_dataset/ncbi_dataset/data/GCA_002863925.1/GCA_002863925.1_EquCab3.0_genomic.fna
-samtools faidx GCA_000696695.1_dataset/ncbi_dataset/data/GCA_000696695.1/GCA_000696695.1_Burgud_genomic.fna
-samtools faidx GCA_021613505.1_dataset/ncbi_dataset/data/GCA_021613505.1/GCA_021613505.1_UCLA_HA_Equagga_1.0_genomic.fna
-samtools faidx GCA_028451465.1_dataset/ncbi_dataset/data/GCA_028451465.1/GCA_028451465.1_mEreDor1.pri_genomic.fna
-samtools faidx GCA_000296755.1_dataset/ncbi_dataset/data/GCA_000296755.1/GCA_000296755.1_EriEur2.0_genomic.fna
-samtools faidx GCA_023783455.1_dataset/ncbi_dataset/data/GCA_023783455.1/GCA_023783455.1_ASM2378345v1_genomic.fna
-samtools faidx GCA_028021215.1_dataset/ncbi_dataset/data/GCA_028021215.1/GCA_028021215.1_mEscRob2.pri_genomic.fna
-samtools faidx GCA_028564815.1_dataset/ncbi_dataset/data/GCA_028564815.1/GCA_028564815.1_mEubGla1.hap2_genomic.fna
-samtools faidx GCA_004363455.1_dataset/ncbi_dataset/data/GCA_004363455.1/GCA_004363455.1_EubJap_v1_BIUU_genomic.fna
-samtools faidx GCA_006408755.1_dataset/ncbi_dataset/data/GCA_006408755.1/GCA_006408755.1_TMG_genomic.fna
-samtools faidx GCA_001262665.1_dataset/ncbi_dataset/data/GCA_001262665.1/GCA_001262665.1_Eflavifronsk33QCA_genomic.fna
-samtools faidx GCA_004027275.1_dataset/ncbi_dataset/data/GCA_004027275.1/GCA_004027275.1_EulFul_v1_BIUU_genomic.fna
-samtools faidx GCA_001262655.1_dataset/ncbi_dataset/data/GCA_001262655.1/GCA_001262655.1_Emacaco_refEf_BWA_oneround_genomic.fna
-samtools faidx GCA_028534055.1_dataset/ncbi_dataset/data/GCA_028534055.1/GCA_028534055.1_Eulemur_mongoz_HiC_genomic.fna
-samtools faidx GCA_004028035.1_dataset/ncbi_dataset/data/GCA_004028035.1/GCA_004028035.1_ASM402803v1_genomic.fna
-samtools faidx GCA_018350175.1_dataset/ncbi_dataset/data/GCA_018350175.1/GCA_018350175.1_F.catus_Fca126_mat1.0_genomic.fna
-samtools faidx GCA_019924945.1_dataset/ncbi_dataset/data/GCA_019924945.1/GCA_019924945.1_FelChav1.0_genomic.fna
-samtools faidx GCA_028533295.1_dataset/ncbi_dataset/data/GCA_028533295.1/GCA_028533295.1_Felis_nigripes_HiC_genomic.fna
-samtools faidx GCA_012274545.1_dataset/ncbi_dataset/data/GCA_012274545.1/GCA_012274545.1_DMR_v1.0_HiC_genomic.fna
-samtools faidx GCA_023783435.1_dataset/ncbi_dataset/data/GCA_023783435.1/GCA_023783435.1_ASM2378343v1_genomic.fna
-samtools faidx GCA_019455555.1_dataset/ncbi_dataset/data/GCA_019455555.1/GCA_019455555.1_Gpyr_1.0_genomic.fna
-samtools faidx GCA_000696425.1_dataset/ncbi_dataset/data/GCA_000696425.1/GCA_000696425.1_G_variegatus-3.0.2_genomic.fna
-samtools faidx GCA_006408565.1_dataset/ncbi_dataset/data/GCA_006408565.1/GCA_006408565.1_GFE_genomic.fna
-samtools faidx GCA_017591445.1_dataset/ncbi_dataset/data/GCA_017591445.1/GCA_017591445.1_ASM1759144v1_genomic.fna
-samtools faidx GCA_013496395.1_dataset/ncbi_dataset/data/GCA_013496395.1/GCA_013496395.1_ASM1349639v1_genomic.fna
-samtools faidx GCA_020662805.1_dataset/ncbi_dataset/data/GCA_020662805.1/GCA_020662805.1_ASM2066280v1_genomic.fna
-samtools faidx GCA_004027185.1_dataset/ncbi_dataset/data/GCA_004027185.1/GCA_004027185.1_GliGli_v1_BIUU_genomic.fna
-samtools faidx GCA_006547405.1_dataset/ncbi_dataset/data/GCA_006547405.1/GCA_006547405.1_ASM654740v1_genomic.fna
-samtools faidx GCA_900199665.1_dataset/ncbi_dataset/data/GCA_900199665.1/GCA_900199665.1_GorY_WUR_genomic.fna
-samtools faidx GCA_008122165.1_dataset/ncbi_dataset/data/GCA_008122165.1/GCA_008122165.1_Kamilah_GGO_v0_genomic.fna
-samtools faidx GCA_016433145.1_dataset/ncbi_dataset/data/GCA_016433145.1/GCA_016433145.1_AgileGrace_genomic.fna
-samtools faidx GCA_019843835.1_dataset/ncbi_dataset/data/GCA_019843835.1/GCA_019843835.1_ASM1984383v1_genomic.fna
-samtools faidx GCA_004785775.1_dataset/ncbi_dataset/data/GCA_004785775.1/GCA_004785775.1_NIH_TR_1.0_genomic.fna
-samtools faidx GCA_028646425.1_dataset/ncbi_dataset/data/GCA_028646425.1/GCA_028646425.1_Grampus_griseus_HiC_genomic.fna
-samtools faidx GCA_004027655.1_dataset/ncbi_dataset/data/GCA_004027655.1/GCA_004027655.1_GraMur_v1_BIUU_genomic.fna
-samtools faidx GCA_900006375.2_dataset/ncbi_dataset/data/GCA_900006375.2/GCA_900006375.2_Gulo_2.2_annotated_genomic.fna
-samtools faidx GCA_024510155.1_dataset/ncbi_dataset/data/GCA_024510155.1/GCA_024510155.1_Gulo_gulo_luscus_R-V1.0_genomic.fna
-samtools faidx GCA_011680675.1_dataset/ncbi_dataset/data/GCA_011680675.1/GCA_011680675.1_LBP_v1_genomic.fna
-samtools faidx GCA_012393455.1_dataset/ncbi_dataset/data/GCA_012393455.1/GCA_012393455.1_Tufts_HGry_1.1_genomic.fna
-samtools faidx GCA_028533245.1_dataset/ncbi_dataset/data/GCA_028533245.1/GCA_028533245.1_Helarctos_malayanus_HiC_genomic.fna
-samtools faidx GCA_004023845.1_dataset/ncbi_dataset/data/GCA_004023845.1/GCA_004023845.1_HelPar_v1_BIUU_genomic.fna
-samtools faidx GCA_904810875.1_dataset/ncbi_dataset/data/GCA_904810875.1/GCA_904810875.1_ERS5079545 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004026825.1_dataset/ncbi_dataset/data/GCA_004026825.1/GCA_004026825.1_HemHyl_v1_BIUU_genomic.fna
-samtools faidx GCA_000247695.1_dataset/ncbi_dataset/data/GCA_000247695.1/GCA_000247695.1_HetGla_female_1.0_genomic.fna
-samtools faidx GCA_028571685.1_dataset/ncbi_dataset/data/GCA_028571685.1/GCA_028571685.1_mHetBru1.pri_genomic.fna
-samtools faidx GCA_023065765.1_dataset/ncbi_dataset/data/GCA_023065765.1/GCA_023065765.1_ASM2306576v1_genomic.fna
-samtools faidx GCA_023065835.1_dataset/ncbi_dataset/data/GCA_023065835.1/GCA_023065835.1_ASM2306583v1_genomic.fna
-samtools faidx GCA_001890085.1_dataset/ncbi_dataset/data/GCA_001890085.1/GCA_001890085.1_ASM189008v1_genomic.fna
-samtools faidx GCA_004027415.1_dataset/ncbi_dataset/data/GCA_004027415.1/GCA_004027415.1_HipGal_v1_BIUU_genomic.fna
-samtools faidx GCA_021464545.1_dataset/ncbi_dataset/data/GCA_021464545.1/GCA_021464545.1_ASM2146454v1_genomic.fna
-samtools faidx GCA_016433095.1_dataset/ncbi_dataset/data/GCA_016433095.1/GCA_016433095.1_ASM1643309v1_genomic.fna
-samtools faidx GCA_006942125.1_dataset/ncbi_dataset/data/GCA_006942125.1/GCA_006942125.1_SCBI_HNig_1.0_genomic.fna
-samtools faidx GCA_000001405.29_dataset/ncbi_dataset/data/GCA_000001405.29/GCA_000001405.29_GRCh38.p14_genomic.fna
-samtools faidx GCA_023748175.1_dataset/ncbi_dataset/data/GCA_023748175.1/GCA_023748175.1_ASM2374817v1_genomic.fna
-samtools faidx GCA_003009895.1_dataset/ncbi_dataset/data/GCA_003009895.1/GCA_003009895.1_ASM300989v1_genomic.fna
-samtools faidx GCA_004027455.1_dataset/ncbi_dataset/data/GCA_004027455.1/GCA_004027455.1_HydHyd_v1_BIUU_genomic.fna
-samtools faidx GCA_013391785.1_dataset/ncbi_dataset/data/GCA_013391785.1/GCA_013391785.1_H_Gigas_1.0_genomic.fna
-samtools faidx GCA_020226075.1_dataset/ncbi_dataset/data/GCA_020226075.1/GCA_020226075.1_ASM2022607v1_genomic.fna
-samtools faidx GCA_009828535.2_dataset/ncbi_dataset/data/GCA_009828535.2/GCA_009828535.2_HMol_V2_genomic.fna
-samtools faidx GCA_021498465.1_dataset/ncbi_dataset/data/GCA_021498465.1/GCA_021498465.1_ASM2149846v1_genomic.fna
-samtools faidx GCA_019843855.1_dataset/ncbi_dataset/data/GCA_019843855.1/GCA_019843855.1_ASM1984385v1_genomic.fna
-samtools faidx GCA_024363105.1_dataset/ncbi_dataset/data/GCA_024363105.1/GCA_024363105.1_DAL_HAmp_1_genomic.fna
-samtools faidx GCA_904813425.1_dataset/ncbi_dataset/data/GCA_904813425.1/GCA_904813425.1_ERS5079805 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_016801275.1_dataset/ncbi_dataset/data/GCA_016801275.1/GCA_016801275.1_DSBC_Hbra_1.0_genomic.fna
-samtools faidx GCA_004026905.1_dataset/ncbi_dataset/data/GCA_004026905.1/GCA_004026905.1_HysCri_v1_BIUU_genomic.fna
-samtools faidx GCA_025583905.1_dataset/ncbi_dataset/data/GCA_025583905.1/GCA_025583905.1_NENU_Iio_1.0_genomic.fna
-samtools faidx GCA_016881025.1_dataset/ncbi_dataset/data/GCA_016881025.1/GCA_016881025.1_HiC_Itri_2_genomic.fna
-samtools faidx GCA_004363605.1_dataset/ncbi_dataset/data/GCA_004363605.1/GCA_004363605.1_IndInd_v1_BIUU_genomic.fna
-samtools faidx GCA_004363515.1_dataset/ncbi_dataset/data/GCA_004363515.1/GCA_004363515.1_IniGeo_v1_BIUU_genomic.fna
-samtools faidx GCA_904811175.1_dataset/ncbi_dataset/data/GCA_904811175.1/GCA_904811175.1_ERS5079591 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811015.1_dataset/ncbi_dataset/data/GCA_904811015.1/GCA_904811015.1_ERS5079592 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811005.1_dataset/ncbi_dataset/data/GCA_904811005.1/GCA_904811005.1_ERS5079593 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812165.1_dataset/ncbi_dataset/data/GCA_904812165.1/GCA_904812165.1_ERS5079680 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811945.1_dataset/ncbi_dataset/data/GCA_904811945.1/GCA_904811945.1_ERS5079672 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_020740685.1_dataset/ncbi_dataset/data/GCA_020740685.1/GCA_020740685.1_mJacJac1.mat.Y.cur_genomic.fna
-samtools faidx GCA_006410655.1_dataset/ncbi_dataset/data/GCA_006410655.1/GCA_006410655.1_DFW_genomic.fna
-samtools faidx GCA_014926565.1_dataset/ncbi_dataset/data/GCA_014926565.1/GCA_014926565.1_Klec_v1.0_genomic.fna
-samtools faidx GCA_026419965.1_dataset/ncbi_dataset/data/GCA_026419965.1/GCA_026419965.1_mKogBre1 haplotype 1_genomic.fna
-samtools faidx GCA_003676395.1_dataset/ncbi_dataset/data/GCA_003676395.1/GCA_003676395.1_ASM367639v1_genomic.fna
-samtools faidx GCA_904810835.1_dataset/ncbi_dataset/data/GCA_904810835.1/GCA_904810835.1_ERS5079548 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028533205.1_dataset/ncbi_dataset/data/GCA_028533205.1/GCA_028533205.1_Lagorchestes_hirsutus_HiC_genomic.fna
-samtools faidx GCA_904811075.1_dataset/ncbi_dataset/data/GCA_904811075.1/GCA_904811075.1_ERS5079595 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028534125.1_dataset/ncbi_dataset/data/GCA_028534125.1/GCA_028534125.1_Lama_glama_HiC_genomic.fna
-samtools faidx GCA_013239585.1_dataset/ncbi_dataset/data/GCA_013239585.1/GCA_013239585.1_ASM1323958v1_genomic.fna
-samtools faidx GCA_013239625.1_dataset/ncbi_dataset/data/GCA_013239625.1/GCA_013239625.1_ASM1323962v1_genomic.fna
-samtools faidx GCA_904813145.1_dataset/ncbi_dataset/data/GCA_904813145.1/GCA_904813145.1_ERS5079778 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004026805.1_dataset/ncbi_dataset/data/GCA_004026805.1/GCA_004026805.1_LasBor_v1_BIUU_genomic.fna
-samtools faidx GCA_020740605.1_dataset/ncbi_dataset/data/GCA_020740605.1/GCA_020740605.1_mLemCat1.pri_genomic.fna
-samtools faidx GCA_028533165.1_dataset/ncbi_dataset/data/GCA_028533165.1/GCA_028533165.1_Leontopithecus_rosalia_HiC_genomic.fna
-samtools faidx GCA_018350155.1_dataset/ncbi_dataset/data/GCA_018350155.1/GCA_018350155.1_O.geoffroyi_Oge1_pat1.0_genomic.fna
-samtools faidx GCA_000349705.1_dataset/ncbi_dataset/data/GCA_000349705.1/GCA_000349705.1_LepWed1.0_genomic.fna
-samtools faidx GCA_004026855.1_dataset/ncbi_dataset/data/GCA_004026855.1/GCA_004026855.1_LepAme_v1_BIUU_genomic.fna
-samtools faidx GCA_009760805.1_dataset/ncbi_dataset/data/GCA_009760805.1/GCA_009760805.1_CIBIO-ISEM_LeTim_1.1_genomic.fna
-samtools faidx GCA_000442215.2_dataset/ncbi_dataset/data/GCA_000442215.2/GCA_000442215.2_Lipotes_vexillifer_v1.1_genomic.fna
-samtools faidx GCA_006410535.1_dataset/ncbi_dataset/data/GCA_006410535.1/GCA_006410535.1_GRK_genomic.fna
-samtools faidx GCA_010015895.1_dataset/ncbi_dataset/data/GCA_010015895.1/GCA_010015895.1_GSC_riverotter_1.0_genomic.fna
-samtools faidx GCA_907164525.1_dataset/ncbi_dataset/data/GCA_907164525.1/GCA_907164525.1_mLopImh1.curated_primary_1811_genomic.fna
-samtools faidx GCA_023783235.1_dataset/ncbi_dataset/data/GCA_023783235.1/GCA_023783235.1_ASM2378323v1_genomic.fna
-samtools faidx GCA_023783135.1_dataset/ncbi_dataset/data/GCA_023783135.1/GCA_023783135.1_ASM2378313v1_genomic.fna
-samtools faidx GCA_000001905.1_dataset/ncbi_dataset/data/GCA_000001905.1/GCA_000001905.1_Loxafr3.0_genomic.fna
-samtools faidx GCA_902655055.2_dataset/ncbi_dataset/data/GCA_902655055.2/GCA_902655055.2_mLutLut1.2_genomic.fna
-samtools faidx GCA_004216515.1_dataset/ncbi_dataset/data/GCA_004216515.1/GCA_004216515.1_sis1-161031-pseudohap_genomic.fna
-samtools faidx GCA_007474595.2_dataset/ncbi_dataset/data/GCA_007474595.2/GCA_007474595.2_mLynCan4.pri.v2_genomic.fna
-samtools faidx GCA_900661375.1_dataset/ncbi_dataset/data/GCA_900661375.1/GCA_900661375.1_LYPA1.0_genomic.fna
-samtools faidx GCA_022079265.1_dataset/ncbi_dataset/data/GCA_022079265.1/GCA_022079265.1_mLynRuf1.p_genomic.fna
-samtools faidx GCA_021188215.1_dataset/ncbi_dataset/data/GCA_021188215.1/GCA_021188215.1_Marc_1.0_genomic.fna
-samtools faidx GCA_023783095.1_dataset/ncbi_dataset/data/GCA_023783095.1/GCA_023783095.1_ASM2378309v1_genomic.fna
-samtools faidx GCA_026956025.1_dataset/ncbi_dataset/data/GCA_026956025.1/GCA_026956025.1_MCyc01_genomic.fna
-samtools faidx GCA_012559485.3_dataset/ncbi_dataset/data/GCA_012559485.3/GCA_012559485.3_MFA1912RKSv2_genomic.fna
-samtools faidx GCA_003118495.1_dataset/ncbi_dataset/data/GCA_003118495.1/GCA_003118495.1_macFus_1.0_genomic.fna
-samtools faidx GCA_003339765.3_dataset/ncbi_dataset/data/GCA_003339765.3/GCA_003339765.3_Mmul_10_genomic.fna
-samtools faidx GCA_000956065.1_dataset/ncbi_dataset/data/GCA_000956065.1/GCA_000956065.1_Mnem_1.0_genomic.fna
-samtools faidx GCA_928851695.1_dataset/ncbi_dataset/data/GCA_928851695.1/GCA_928851695.1_mMacNir1.1_genomic.fna
-samtools faidx GCA_023807365.1_dataset/ncbi_dataset/data/GCA_023807365.1/GCA_023807365.1_ASM2380736v1_genomic.fna
-samtools faidx GCA_024542745.1_dataset/ncbi_dataset/data/GCA_024542745.1/GCA_024542745.1_ASM2454274v1_genomic.fna
-samtools faidx GCA_004027375.1_dataset/ncbi_dataset/data/GCA_004027375.1/GCA_004027375.1_MacSob_v1_BIUU_genomic.fna
-samtools faidx GCA_028583105.1_dataset/ncbi_dataset/data/GCA_028583105.1/GCA_028583105.1_mf-2k_genomic.fna
-samtools faidx GCA_028627215.1_dataset/ncbi_dataset/data/GCA_028627215.1/GCA_028627215.1_mg-2k_genomic.fna
-samtools faidx GCA_904813115.1_dataset/ncbi_dataset/data/GCA_904813115.1/GCA_904813115.1_ERS5079777 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_007922815.1_dataset/ncbi_dataset/data/GCA_007922815.1/GCA_007922815.1_MacCal_v1_BIUU_genomic.fna
-samtools faidx GCA_006408675.1_dataset/ncbi_dataset/data/GCA_006408675.1/GCA_006408675.1_KDD_genomic.fna
-samtools faidx GCA_000951045.1_dataset/ncbi_dataset/data/GCA_000951045.1/GCA_000951045.1_Mleu.le_1.0_genomic.fna
-samtools faidx GCA_023783085.1_dataset/ncbi_dataset/data/GCA_023783085.1/GCA_023783085.1_ASM2378308v1_genomic.fna
-samtools faidx GCA_016801295.1_dataset/ncbi_dataset/data/GCA_016801295.1/GCA_016801295.1_DSBC_Mcra_1.0_genomic.fna
-samtools faidx GCA_014570535.1_dataset/ncbi_dataset/data/GCA_014570535.1/GCA_014570535.1_YNU_ManJav_2.0_genomic.fna
-samtools faidx GCA_014570555.1_dataset/ncbi_dataset/data/GCA_014570555.1/GCA_014570555.1_YNU_ManPten_2.0_genomic.fna
-samtools faidx GCA_003676075.3_dataset/ncbi_dataset/data/GCA_003676075.3/GCA_003676075.3_GSC_YBM_2.1_genomic.fna
-samtools faidx GCA_005280165.1_dataset/ncbi_dataset/data/GCA_005280165.1/GCA_005280165.1_ASM528016v1_genomic.fna
-samtools faidx GCA_001458135.2_dataset/ncbi_dataset/data/GCA_001458135.2/GCA_001458135.2_marMar_genomic.fna
-samtools faidx GCF_021218885.1_dataset/ncbi_dataset/data/GCF_021218885.1/GCF_021218885.1_Marmota_monax_Labrador192_V1.0_genomic.fna
-samtools faidx GCA_005458795.1_dataset/ncbi_dataset/data/GCA_005458795.1/GCA_005458795.1_GSC_VIM_1.0_genomic.fna
-samtools faidx GCA_012583365.1_dataset/ncbi_dataset/data/GCA_012583365.1/GCA_012583365.1_ASM1258336v1_genomic.fna
-samtools faidx GCA_008632895.1_dataset/ncbi_dataset/data/GCA_008632895.1/GCA_008632895.1_UCSF_Mcou_1_genomic.fna
-samtools faidx GCA_021653895.1_dataset/ncbi_dataset/data/GCA_021653895.1/GCA_021653895.1_UFL_Mnatal_1.0_genomic.fna
-samtools faidx GCA_004026885.1_dataset/ncbi_dataset/data/GCA_004026885.1/GCA_004026885.1_MegLyr_v1_BIUU_genomic.fna
-samtools faidx GCA_905120125.1_dataset/ncbi_dataset/data/GCA_905120125.1/GCA_905120125.1_ERS5330600_genomic.fna
-samtools faidx GCA_004329385.1_dataset/ncbi_dataset/data/GCA_004329385.1/GCA_004329385.1_megNov1_genomic.fna
-samtools faidx GCA_922984935.1_dataset/ncbi_dataset/data/GCA_922984935.1/GCA_922984935.1_mMelMel3.1 paternal haplotype_genomic.fna
-samtools faidx GCA_004024625.1_dataset/ncbi_dataset/data/GCA_004024625.1/GCA_004024625.1_MelCap_v1_BIUU_genomic.fna
-samtools faidx GCA_002204375.1_dataset/ncbi_dataset/data/GCA_002204375.1/GCA_002204375.1_MunDraft-v1.0_genomic.fna
-samtools faidx GCA_017639785.1_dataset/ncbi_dataset/data/GCA_017639785.1/GCA_017639785.1_BCM_Maur_2.0_genomic.fna
-samtools faidx GCA_004027085.1_dataset/ncbi_dataset/data/GCA_004027085.1/GCA_004027085.1_MesBid_v1_BIUU_genomic.fna
-samtools faidx GCA_025265405.1_dataset/ncbi_dataset/data/GCA_025265405.1/GCA_025265405.1_mMesDen1 primary haplotype_genomic.fna
-samtools faidx GCA_008750995.1_dataset/ncbi_dataset/data/GCA_008750995.1/GCA_008750995.1_Mgri_1.0_genomic.fna
-samtools faidx GCA_008750955.1_dataset/ncbi_dataset/data/GCA_008750955.1/GCA_008750955.1_Mmit_1.0_genomic.fna
-samtools faidx GCA_000165445.3_dataset/ncbi_dataset/data/GCA_000165445.3/GCA_000165445.3_Mmur_3.0_genomic.fna
-samtools faidx GCA_008750975.1_dataset/ncbi_dataset/data/GCA_008750975.1/GCA_008750975.1_Mrav_1.0_genomic.fna
-samtools faidx GCA_008750915.1_dataset/ncbi_dataset/data/GCA_008750915.1/GCA_008750915.1_Mjon_1.0_genomic.fna
-samtools faidx GCA_008750935.1_dataset/ncbi_dataset/data/GCA_008750935.1/GCA_008750935.1_Mtav_1.0_genomic.fna
-samtools faidx GCA_004026705.1_dataset/ncbi_dataset/data/GCA_004026705.1/GCA_004026705.1_MicTal_v1_BIUU_genomic.fna
-samtools faidx GCA_004026765.1_dataset/ncbi_dataset/data/GCA_004026765.1/GCA_004026765.1_MicHir_v1_BIUU_genomic.fna
-samtools faidx GCA_904812025.1_dataset/ncbi_dataset/data/GCA_904812025.1/GCA_904812025.1_ERS5079575 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904814235.1_dataset/ncbi_dataset/data/GCA_904814235.1/GCA_904814235.1_ERS5079886 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_902806775.1_dataset/ncbi_dataset/data/GCA_902806775.1/GCA_902806775.1_Field_vole_promethion_pilon_genomic.fna
-samtools faidx GCA_007455615.1_dataset/ncbi_dataset/data/GCA_007455615.1/GCA_007455615.1_ASM745561v1_genomic.fna
-samtools faidx GCA_028537955.1_dataset/ncbi_dataset/data/GCA_028537955.1/GCA_028537955.1_mMicCal1.0.hap1_genomic.fna
-samtools faidx GCA_014885135.2_dataset/ncbi_dataset/data/GCA_014885135.2/GCA_014885135.2_M_Fortis_MF-2015_v1.1_genomic.fna
-samtools faidx GCA_020392405.1_dataset/ncbi_dataset/data/GCA_020392405.1/GCA_020392405.1_ASM2039240v1_genomic.fna
-samtools faidx GCA_000317375.1_dataset/ncbi_dataset/data/GCA_000317375.1/GCA_000317375.1_MicOch1.0_genomic.fna
-samtools faidx GCA_007455595.1_dataset/ncbi_dataset/data/GCA_007455595.1/GCA_007455595.1_ASM745559v1_genomic.fna
-samtools faidx GCA_018167655.1_dataset/ncbi_dataset/data/GCA_018167655.1/GCA_018167655.1_Mior012_genomic.fna
-samtools faidx GCA_019206885.2_dataset/ncbi_dataset/data/GCA_019206885.2/GCA_019206885.2_ASM1920688v2_genomic.fna
-samtools faidx GCA_001595765.1_dataset/ncbi_dataset/data/GCA_001595765.1/GCA_001595765.1_Mnat.v1_genomic.fna
-samtools faidx GCA_004026525.1_dataset/ncbi_dataset/data/GCA_004026525.1/GCA_004026525.1_MinSch_v1_BIUU_genomic.fna
-samtools faidx GCA_028551445.1_dataset/ncbi_dataset/data/GCA_028551445.1/GCA_028551445.1_Miopithecus_talapoin_HiC_genomic.fna
-samtools faidx GCA_021288785.2_dataset/ncbi_dataset/data/GCA_021288785.2/GCA_021288785.2_ASM2128878v2_genomic.fna
-samtools faidx GCA_011800145.1_dataset/ncbi_dataset/data/GCA_011800145.1/GCA_011800145.1_KU_Mleo_1.0_genomic.fna
-samtools faidx GCA_004024645.1_dataset/ncbi_dataset/data/GCA_004024645.1/GCA_004024645.1_MizCoq_v1_BIUU_genomic.fna
-samtools faidx GCA_008750895.1_dataset/ncbi_dataset/data/GCA_008750895.1/GCA_008750895.1_Mzaz_1.0_genomic.fna
-samtools faidx GCA_014108415.1_dataset/ncbi_dataset/data/GCA_014108415.1/GCA_014108415.1_mMolMol1.p_genomic.fna
-samtools faidx GCA_026936385.1_dataset/ncbi_dataset/data/GCA_026936385.1/GCA_026936385.1_BBF_mMolNig1_v1_genomic.fna
-samtools faidx GCA_000002295.1_dataset/ncbi_dataset/data/GCA_000002295.1/GCA_000002295.1_MonDom5_genomic.fna
-samtools faidx GCA_005190385.2_dataset/ncbi_dataset/data/GCA_005190385.2/GCA_005190385.2_NGI_Narwhal_1_genomic.fna
-samtools faidx GCA_004026545.1_dataset/ncbi_dataset/data/GCA_004026545.1/GCA_004026545.1_MorMeg_v1_BIUU_genomic.fna
-samtools faidx GCA_022376915.1_dataset/ncbi_dataset/data/GCA_022376915.1/GCA_022376915.1_ASM2237691v1_genomic.fna
-samtools faidx GCA_006461725.1_dataset/ncbi_dataset/data/GCA_006461725.1/GCA_006461725.1_NPU_MCHR_1.0_genomic.fna
-samtools faidx GCA_004024705.2_dataset/ncbi_dataset/data/GCA_004024705.2/GCA_004024705.2_MosMos_v2_BIUU_UCD_genomic.fna
-samtools faidx GCA_004023785.1_dataset/ncbi_dataset/data/GCA_004023785.1/GCA_004023785.1_MunMun_v1_BIUU_genomic.fna
-samtools faidx GCA_020276665.1_dataset/ncbi_dataset/data/GCA_020276665.1/GCA_020276665.1_ASM2027666v1_genomic.fna
-samtools faidx GCA_020226025.1_dataset/ncbi_dataset/data/GCA_020226025.1/GCA_020226025.1_ASM2022602v1_genomic.fna
-samtools faidx GCA_008782695.1_dataset/ncbi_dataset/data/GCA_008782695.1/GCA_008782695.1_UCB_Mmun_1.0_genomic.fna
-samtools faidx GCA_020226045.1_dataset/ncbi_dataset/data/GCA_020226045.1/GCA_020226045.1_ASM2022604v1_genomic.fna
-samtools faidx GCA_904810545.1_dataset/ncbi_dataset/data/GCA_904810545.1/GCA_904810545.1_ERS5079527 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811165.1_dataset/ncbi_dataset/data/GCA_904811165.1/GCA_904811165.1_ERS5079578 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810885.1_dataset/ncbi_dataset/data/GCA_904810885.1/GCA_904810885.1_ERS5079550 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810575.1_dataset/ncbi_dataset/data/GCA_904810575.1/GCA_904810575.1_ERS5079529 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810855.1_dataset/ncbi_dataset/data/GCA_904810855.1/GCA_904810855.1_ERS5079551 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004026665.1_dataset/ncbi_dataset/data/GCA_004026665.1/GCA_004026665.1_MurFea_v1_BIUU_genomic.fna
-samtools faidx GCA_900094665.2_dataset/ncbi_dataset/data/GCA_900094665.2/GCA_900094665.2_CAROLI_EIJ_v1.1_genomic.fna
-samtools faidx GCA_902729485.2_dataset/ncbi_dataset/data/GCA_902729485.2/GCA_902729485.2_Mus_minutoides_I2396_v1_genomic.fna
-samtools faidx GCA_000001635.9_dataset/ncbi_dataset/data/GCA_000001635.9/GCA_000001635.9_GRCm39_genomic.fna
-samtools faidx GCA_900095145.2_dataset/ncbi_dataset/data/GCA_900095145.2/GCA_900095145.2_PAHARI_EIJ_v1.1_genomic.fna
-samtools faidx GCA_003336285.1_dataset/ncbi_dataset/data/GCA_003336285.1/GCA_003336285.1_MUSP714_genomic.fna
-samtools faidx GCA_921997135.2_dataset/ncbi_dataset/data/GCA_921997135.2/GCA_921997135.2_SPRET_EiJ_v3_genomic.fna
-samtools faidx GCA_004027005.1_dataset/ncbi_dataset/data/GCA_004027005.1/GCA_004027005.1_MusAve_v1_BIUU_genomic.fna
-samtools faidx GCA_009829155.1_dataset/ncbi_dataset/data/GCA_009829155.1/GCA_009829155.1_mMusErm1.Pri_genomic.fna
-samtools faidx GCA_022355385.1_dataset/ncbi_dataset/data/GCA_022355385.1/GCA_022355385.1_MUSNIG.SB6536_genomic.fna
-samtools faidx GCA_019141155.1_dataset/ncbi_dataset/data/GCA_019141155.1/GCA_019141155.1_MusNiv_Pri1.0_genomic.fna
-samtools faidx GCA_011764305.2_dataset/ncbi_dataset/data/GCA_011764305.2/GCA_011764305.2_ASM1176430v1.1_genomic.fna
-samtools faidx GCA_004027025.1_dataset/ncbi_dataset/data/GCA_004027025.1/GCA_004027025.1_MyoCoy_v1_BIUU_genomic.fna
-samtools faidx GCA_902806735.1_dataset/ncbi_dataset/data/GCA_902806735.1/GCA_902806735.1_Bank_vole1_10x_genomic.fna
-samtools faidx GCA_904813865.1_dataset/ncbi_dataset/data/GCA_904813865.1/GCA_904813865.1_ERS5079850 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810995.1_dataset/ncbi_dataset/data/GCA_904810995.1/GCA_904810995.1_ERS5079580 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813925.1_dataset/ncbi_dataset/data/GCA_904813925.1/GCA_904813925.1_ERS5079858 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813975.1_dataset/ncbi_dataset/data/GCA_904813975.1/GCA_904813975.1_ERS5079861 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_000412655.1_dataset/ncbi_dataset/data/GCA_000412655.1/GCA_000412655.1_ASM41265v1_genomic.fna
-samtools faidx GCA_000327345.1_dataset/ncbi_dataset/data/GCA_000327345.1/GCA_000327345.1_ASM32734v1_genomic.fna
-samtools faidx GCA_000147115.1_dataset/ncbi_dataset/data/GCA_000147115.1/GCA_000147115.1_Myoluc2.0_genomic.fna
-samtools faidx GCA_014108235.1_dataset/ncbi_dataset/data/GCA_014108235.1/GCA_014108235.1_mMyoMyo1.p_genomic.fna
-samtools faidx GCA_028538775.1_dataset/ncbi_dataset/data/GCA_028538775.1/GCA_028538775.1_mMyoYum1.0.hap1_genomic.fna
-samtools faidx GCA_023553655.1_dataset/ncbi_dataset/data/GCA_023553655.1/GCA_023553655.1_mMyrfas1.20211206_genomic.fna
-samtools faidx GCA_004026745.1_dataset/ncbi_dataset/data/GCA_004026745.1/GCA_004026745.1_MyrTri_v1_BIUU_genomic.fna
-samtools faidx GCA_917880005.1_dataset/ncbi_dataset/data/GCA_917880005.1/GCA_917880005.1_ORGONE_02_genomic.fna
-samtools faidx GCA_006408635.1_dataset/ncbi_dataset/data/GCA_006408635.1/GCA_006408635.1_GTG_genomic.fna
-samtools faidx GCA_000622305.1_dataset/ncbi_dataset/data/GCA_000622305.1/GCA_000622305.1_S.galili_v1.0_genomic.fna
-samtools faidx GCA_000772465.1_dataset/ncbi_dataset/data/GCA_000772465.1/GCA_000772465.1_Charlie1.0_genomic.fna
-samtools faidx GCA_028533885.1_dataset/ncbi_dataset/data/GCA_028533885.1/GCA_028533885.1_Nasua_narica_HiC_genomic.fna
-samtools faidx GCA_025134845.1_dataset/ncbi_dataset/data/GCA_025134845.1/GCA_025134845.1_SAF_Nshe_1.1_genomic.fna
-samtools faidx GCA_027422475.1_dataset/ncbi_dataset/data/GCA_027422475.1/GCA_027422475.1_ASM2742247v1_genomic.fna
-samtools faidx GCA_028018385.1_dataset/ncbi_dataset/data/GCA_028018385.1/GCA_028018385.1_mNeoNeb1.pri_genomic.fna
-samtools faidx GCA_020171115.1_dataset/ncbi_dataset/data/GCA_020171115.1/GCA_020171115.1_ASM_NN_V1_genomic.fna
-samtools faidx GCA_002201575.2_dataset/ncbi_dataset/data/GCA_002201575.2/GCA_002201575.2_ASM220157v2_genomic.fna
-samtools faidx GCA_904810695.1_dataset/ncbi_dataset/data/GCA_904810695.1/GCA_904810695.1_ERS5079528 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_003031525.2_dataset/ncbi_dataset/data/GCA_003031525.2/GCA_003031525.2_Neophocaena_asiaeorientalis_V1.1_genomic.fna
-samtools faidx GCA_026225855.1_dataset/ncbi_dataset/data/GCA_026225855.1/GCA_026225855.1_ASM2622585v1_genomic.fna
-samtools faidx GCA_001675575.1_dataset/ncbi_dataset/data/GCA_001675575.1/GCA_001675575.1_ASM167557v1_genomic.fna
-samtools faidx GCA_006410615.1_dataset/ncbi_dataset/data/GCA_006410615.1/GCA_006410615.1_SUN_genomic.fna
-samtools faidx GCA_006410875.1_dataset/ncbi_dataset/data/GCA_006410875.1/GCA_006410875.1_RAL_genomic.fna
-samtools faidx GCA_904812055.1_dataset/ncbi_dataset/data/GCA_904812055.1/GCA_904812055.1_ERS5079568 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810535.1_dataset/ncbi_dataset/data/GCA_904810535.1/GCA_904810535.1_ERS5079530 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813685.1_dataset/ncbi_dataset/data/GCA_904813685.1/GCA_904813685.1_ERS5079832 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004026585.1_dataset/ncbi_dataset/data/GCA_004026585.1/GCA_004026585.1_NocLep_v1_BIUU_genomic.fna
-samtools faidx GCA_006542625.1_dataset/ncbi_dataset/data/GCA_006542625.1/GCA_006542625.1_Asia_NLE_v1_genomic.fna
-samtools faidx GCA_023783065.1_dataset/ncbi_dataset/data/GCA_023783065.1/GCA_023783065.1_ASM2378306v1_genomic.fna
-samtools faidx GCA_904814285.1_dataset/ncbi_dataset/data/GCA_904814285.1/GCA_904814285.1_ERS5079889 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028372415.1_dataset/ncbi_dataset/data/GCA_028372415.1/GCA_028372415.1_mMacEug1.pri_genomic.fna
-samtools faidx GCA_904814355.1_dataset/ncbi_dataset/data/GCA_904814355.1/GCA_904814355.1_ERS5079900 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811085.1_dataset/ncbi_dataset/data/GCA_904811085.1/GCA_904811085.1_ERS5079587 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810775.1_dataset/ncbi_dataset/data/GCA_904810775.1/GCA_904810775.1_ERS5079538 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811115.1_dataset/ncbi_dataset/data/GCA_904811115.1/GCA_904811115.1_ERS5079589 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813125.1_dataset/ncbi_dataset/data/GCA_904813125.1/GCA_904813125.1_ERS5079776 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_905146905.1_dataset/ncbi_dataset/data/GCA_905146905.1/GCA_905146905.1_NYPRO_anot_genome_genomic.fna
-samtools faidx GCA_023898255.1_dataset/ncbi_dataset/data/GCA_023898255.1/GCA_023898255.1_ASM2389825v1_genomic.fna
-samtools faidx GCA_027406575.1_dataset/ncbi_dataset/data/GCA_027406575.1/GCA_027406575.1_mNycCou1.pri_genomic.fna
-samtools faidx GCA_007922795.1_dataset/ncbi_dataset/data/GCA_007922795.1/GCA_007922795.1_NycHum_v1_BIUU_genomic.fna
-samtools faidx GCA_017591425.1_dataset/ncbi_dataset/data/GCA_017591425.1/GCA_017591425.1_NIBS_Ocur_1.0_genomic.fna
-samtools faidx GCA_014633375.1_dataset/ncbi_dataset/data/GCA_014633375.1/GCA_014633375.1_OchPri4.0_genomic.fna
-samtools faidx GCA_000260255.1_dataset/ncbi_dataset/data/GCA_000260255.1/GCA_000260255.1_OctDeg1.0_genomic.fna
-samtools faidx GCA_002564305.1_dataset/ncbi_dataset/data/GCA_002564305.1/GCA_002564305.1_Oct_mimax_AO248_v1_genomic.fna
-samtools faidx GCA_000321225.1_dataset/ncbi_dataset/data/GCA_000321225.1/GCA_000321225.1_Oros_1.0_genomic.fna
-samtools faidx GCA_020976825.1_dataset/ncbi_dataset/data/GCA_020976825.1/GCA_020976825.1_BYU_Ohem_2021_genomic.fna
-samtools faidx GCA_023699985.2_dataset/ncbi_dataset/data/GCA_023699985.2/GCA_023699985.2_Ovbor_1.1_genomic.fna
-samtools faidx GCA_002102435.1_dataset/ncbi_dataset/data/GCA_002102435.1/GCA_002102435.1_Ovir.te_1.0_genomic.fna
-samtools faidx GCA_024291935.2_dataset/ncbi_dataset/data/GCA_024291935.2/GCA_024291935.2_TBG_Okapi_asm_v1_genomic.fna
-samtools faidx GCA_004026605.1_dataset/ncbi_dataset/data/GCA_004026605.1/GCA_004026605.1_OndZib_v1_BIUU_genomic.fna
-samtools faidx GCA_904813405.1_dataset/ncbi_dataset/data/GCA_904813405.1/GCA_904813405.1_ERS5079804 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810985.1_dataset/ncbi_dataset/data/GCA_904810985.1/GCA_904810985.1_ERS5079579 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_903995425.1_dataset/ncbi_dataset/data/GCA_903995425.1/GCA_903995425.1_mOncTor1.1_genomic.fna
-samtools faidx GCA_937001465.1_dataset/ncbi_dataset/data/GCA_937001465.1/GCA_937001465.1_mOrcOrc1.1_genomic.fna
-samtools faidx GCA_009758055.1_dataset/ncbi_dataset/data/GCA_009758055.1/GCA_009758055.1_ASM975805v1_genomic.fna
-samtools faidx GCA_006410675.1_dataset/ncbi_dataset/data/GCA_006410675.1/GCA_006410675.1_KSP_genomic.fna
-samtools faidx GCA_004027895.1_dataset/ncbi_dataset/data/GCA_004027895.1/GCA_004027895.1_AllBul_v1_BIUU_genomic.fna
-samtools faidx GCA_004115215.4_dataset/ncbi_dataset/data/GCA_004115215.4/GCA_004115215.4_mOrnAna1.pri.v4_genomic.fna
-samtools faidx GCA_004365145.1_dataset/ncbi_dataset/data/GCA_004365145.1/GCA_004365145.1_OryAfe_v1_BIUU_genomic.fna
-samtools faidx GCA_000298275.1_dataset/ncbi_dataset/data/GCA_000298275.1/GCA_000298275.1_OryAfe1.0_genomic.fna
-samtools faidx GCA_009806435.2_dataset/ncbi_dataset/data/GCA_009806435.2/GCA_009806435.2_UM_NZW_1.0_genomic.fna
-samtools faidx GCA_014754425.2_dataset/ncbi_dataset/data/GCA_014754425.2/GCA_014754425.2_SCBI_Odam_1.1_genomic.fna
-samtools faidx GCA_003945745.1_dataset/ncbi_dataset/data/GCA_003945745.1/GCA_003945745.1_UCDavis_Ogaz_1_genomic.fna
-samtools faidx GCA_904810945.1_dataset/ncbi_dataset/data/GCA_904810945.1/GCA_904810945.1_ERS5079558 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813695.1_dataset/ncbi_dataset/data/GCA_904813695.1/GCA_904813695.1_ERS5079834 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811025.1_dataset/ncbi_dataset/data/GCA_904811025.1/GCA_904811025.1_ERS5079584 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028564725.1_dataset/ncbi_dataset/data/GCA_028564725.1/GCA_028564725.1_OtoMan_p1.0_genomic.fna
-samtools faidx GCA_017311455.1_dataset/ncbi_dataset/data/GCA_017311455.1/GCA_017311455.1_Otocyon_megalotis_TS305_17_09_2019_genomic.fna
-samtools faidx GCA_000181295.3_dataset/ncbi_dataset/data/GCA_000181295.3/GCA_000181295.3_OtoGar3_genomic.fna
-samtools faidx GCA_006417275.1_dataset/ncbi_dataset/data/GCA_006417275.1/GCA_006417275.1_ORB_genomic.fna
-samtools faidx GCA_021462335.1_dataset/ncbi_dataset/data/GCA_021462335.1/GCA_021462335.1_ASM2146233v1_genomic.fna
-samtools faidx GCA_006410595.1_dataset/ncbi_dataset/data/GCA_006410595.1/GCA_006410595.1_AGL_genomic.fna
-samtools faidx GCA_028583565.1_dataset/ncbi_dataset/data/GCA_028583565.1/GCA_028583565.1_CAU_O.ammon polii_1.0_genomic.fna
-samtools faidx GCA_016772045.1_dataset/ncbi_dataset/data/GCA_016772045.1/GCA_016772045.1_ARS-UI_Ramb_v2.0_genomic.fna
-samtools faidx GCA_028750845.1_dataset/ncbi_dataset/data/GCA_028750845.1/GCA_028750845.1_Ovis_canadensis_28Q_R-V1.0_genomic.fna
-samtools faidx GCA_028750695.1_dataset/ncbi_dataset/data/GCA_028750695.1/GCA_028750695.1_Ovis_dalli_stonei_THS1_R-V1.0_genomic.fna
-samtools faidx GCA_903231385.1_dataset/ncbi_dataset/data/GCA_903231385.1/GCA_903231385.1_OvNiv1.0_genomic.fna
-samtools faidx GCA_014523465.1_dataset/ncbi_dataset/data/GCA_014523465.1/GCA_014523465.1_CAU_Oori_1.0_genomic.fna
-samtools faidx GCA_028658305.1_dataset/ncbi_dataset/data/GCA_028658305.1/GCA_028658305.1_Pachyuromys_duprasi_HiC_genomic.fna
-samtools faidx GCA_013052645.1_dataset/ncbi_dataset/data/GCA_013052645.1/GCA_013052645.1_Mhudiblu_PPA_v0_genomic.fna
-samtools faidx GCA_002880755.3_dataset/ncbi_dataset/data/GCA_002880755.3/GCA_002880755.3_Clint_PTRv2_genomic.fna
-samtools faidx GCA_018350215.1_dataset/ncbi_dataset/data/GCA_018350215.1/GCA_018350215.1_P.leo_Ple1_pat1.1_genomic.fna
-samtools faidx GCA_028533385.1_dataset/ncbi_dataset/data/GCA_028533385.1/GCA_028533385.1_Panthera_onca_HiC_genomic.fna
-samtools faidx GCA_024362965.1_dataset/ncbi_dataset/data/GCA_024362965.1/GCA_024362965.1_ASM2436296v1_genomic.fna
-samtools faidx GCA_018350195.2_dataset/ncbi_dataset/data/GCA_018350195.2/GCA_018350195.2_P.tigris_Pti1_mat1.1_genomic.fna
-samtools faidx GCA_023721935.1_dataset/ncbi_dataset/data/GCA_023721935.1/GCA_023721935.1_Puncia_PCG_1.0_genomic.fna
-samtools faidx GCA_000400835.1_dataset/ncbi_dataset/data/GCA_000400835.1/GCA_000400835.1_PHO1.0_genomic.fna
-samtools faidx GCA_008728515.1_dataset/ncbi_dataset/data/GCA_008728515.1/GCA_008728515.1_Panubis1.0_genomic.fna
-samtools faidx GCA_023781915.1_dataset/ncbi_dataset/data/GCA_023781915.1/GCA_023781915.1_ASM2378191v1_genomic.fna
-samtools faidx GCA_028645565.1_dataset/ncbi_dataset/data/GCA_028645565.1/GCA_028645565.1_Papio_papio_HiC_genomic.fna
-samtools faidx GCA_004024585.1_dataset/ncbi_dataset/data/GCA_004024585.1/GCA_004024585.1_ParHer_v1_BIUU_genomic.fna
-samtools faidx GCA_904810715.1_dataset/ncbi_dataset/data/GCA_904810715.1/GCA_904810715.1_ERS5079534 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_007922755.1_dataset/ncbi_dataset/data/GCA_007922755.1/GCA_007922755.1_PedCap_v1_BIUU_genomic.fna
-samtools faidx GCA_904810595.1_dataset/ncbi_dataset/data/GCA_904810595.1/GCA_904810595.1_ERS5079518 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813075.1_dataset/ncbi_dataset/data/GCA_904813075.1/GCA_904813075.1_ERS5079772 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813225.1_dataset/ncbi_dataset/data/GCA_904813225.1/GCA_904813225.1_ERS5079786 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_024363435.1_dataset/ncbi_dataset/data/GCA_024363435.1/GCA_024363435.1_mPerLon1.0.a_genomic.fna
-samtools faidx GCA_023159225.1_dataset/ncbi_dataset/data/GCA_023159225.1/GCA_023159225.1_ASM2315922v1_genomic.fna
-samtools faidx GCA_902168425.1_dataset/ncbi_dataset/data/GCA_902168425.1/GCA_902168425.1_Patt_10x_v1_genomic.fna
-samtools faidx GCA_902168405.1_dataset/ncbi_dataset/data/GCA_902168405.1/GCA_902168405.1_Pazt_10x_v1_genomic.fna
-samtools faidx GCA_007827085.3_dataset/ncbi_dataset/data/GCA_007827085.3/GCA_007827085.3_ASM782708v3_genomic.fna
-samtools faidx GCA_902702925.1_dataset/ncbi_dataset/data/GCA_902702925.1/GCA_902702925.1_Peer1.7.4_genomic.fna
-samtools faidx GCA_004664715.2_dataset/ncbi_dataset/data/GCA_004664715.2/GCA_004664715.2_UCI_PerLeu_2.1_genomic.fna
-samtools faidx GCA_003704035.3_dataset/ncbi_dataset/data/GCA_003704035.3/GCA_003704035.3_HU_Pman_2.1.3_genomic.fna
-samtools faidx GCA_026167925.1_dataset/ncbi_dataset/data/GCA_026167925.1/GCA_026167925.1_mPerMan1.0.a_genomic.fna
-samtools faidx GCA_902168415.1_dataset/ncbi_dataset/data/GCA_902168415.1/GCA_902168415.1_Pmel_10x_v1_genomic.fna
-samtools faidx GCA_902168325.1_dataset/ncbi_dataset/data/GCA_902168325.1/GCA_902168325.1_Pnud_10x_v1_genomic.fna
-samtools faidx GCA_003704135.2_dataset/ncbi_dataset/data/GCA_003704135.2/GCA_003704135.2_HU_Ppol_1.3.3_genomic.fna
-samtools faidx GCA_904813055.1_dataset/ncbi_dataset/data/GCA_904813055.1/GCA_904813055.1_ERS5079768 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813455.1_dataset/ncbi_dataset/data/GCA_904813455.1/GCA_904813455.1_ERS5079808 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811125.1_dataset/ncbi_dataset/data/GCA_904811125.1/GCA_904811125.1_ERS5079577 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904814245.1_dataset/ncbi_dataset/data/GCA_904814245.1/GCA_904814245.1_ERS5079890 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810845.1_dataset/ncbi_dataset/data/GCA_904810845.1/GCA_904810845.1_ERS5079552 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813745.1_dataset/ncbi_dataset/data/GCA_904813745.1/GCA_904813745.1_ERS5079837 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028583685.1_dataset/ncbi_dataset/data/GCA_028583685.1/GCA_028583685.1_PetGlider_PUasm1.0_genomic.fna
-samtools faidx GCA_904812595.1_dataset/ncbi_dataset/data/GCA_904812595.1/GCA_904812595.1_ERS5079733 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812605.1_dataset/ncbi_dataset/data/GCA_904812605.1/GCA_904812605.1_ERS5079725 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812245.1_dataset/ncbi_dataset/data/GCA_904812245.1/GCA_904812245.1_ERS5079689 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812235.1_dataset/ncbi_dataset/data/GCA_904812235.1/GCA_904812235.1_ERS5079690 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812675.1_dataset/ncbi_dataset/data/GCA_904812675.1/GCA_904812675.1_ERS5079727 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812525.1_dataset/ncbi_dataset/data/GCA_904812525.1/GCA_904812525.1_ERS5079722 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812425.1_dataset/ncbi_dataset/data/GCA_904812425.1/GCA_904812425.1_ERS5079702 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_913248055.1_dataset/ncbi_dataset/data/GCA_913248055.1/GCA_913248055.1_ERZ1641775_genomic.fna
-samtools faidx GCA_904812495.1_dataset/ncbi_dataset/data/GCA_904812495.1/GCA_904812495.1_ERS5079714 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812475.1_dataset/ncbi_dataset/data/GCA_904812475.1/GCA_904812475.1_ERS5079709 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812335.1_dataset/ncbi_dataset/data/GCA_904812335.1/GCA_904812335.1_ERS5079697 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812265.1_dataset/ncbi_dataset/data/GCA_904812265.1/GCA_904812265.1_ERS5079692 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812505.1_dataset/ncbi_dataset/data/GCA_904812505.1/GCA_904812505.1_ERS5079715 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812765.1_dataset/ncbi_dataset/data/GCA_904812765.1/GCA_904812765.1_ERS5079736 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812275.1_dataset/ncbi_dataset/data/GCA_904812275.1/GCA_904812275.1_ERS5079693 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904812225.1_dataset/ncbi_dataset/data/GCA_904812225.1/GCA_904812225.1_ERS5079695 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004026965.1_dataset/ncbi_dataset/data/GCA_004026965.1/GCA_004026965.1_PetTyp_v1_BIUU_genomic.fna
-samtools faidx GCA_904810825.1_dataset/ncbi_dataset/data/GCA_904810825.1/GCA_904810825.1_ERS5079547 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_016906955.1_dataset/ncbi_dataset/data/GCA_016906955.1/GCA_016906955.1_ROS_Pafr_v1_genomic.fna
-samtools faidx GCA_904813505.1_dataset/ncbi_dataset/data/GCA_904813505.1/GCA_904813505.1_ERS5079815 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028646595.1_dataset/ncbi_dataset/data/GCA_028646595.1/GCA_028646595.1_pg-2k_genomic.fna
-samtools faidx GCA_904814195.1_dataset/ncbi_dataset/data/GCA_904814195.1/GCA_904814195.1_ERS5079883 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813025.1_dataset/ncbi_dataset/data/GCA_904813025.1/GCA_904813025.1_ERS5079766 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904814185.1_dataset/ncbi_dataset/data/GCA_904814185.1/GCA_904814185.1_ERS5079882 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813955.1_dataset/ncbi_dataset/data/GCA_904813955.1/GCA_904813955.1_ERS5079854 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813325.1_dataset/ncbi_dataset/data/GCA_904813325.1/GCA_904813325.1_ERS5079796 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813255.1_dataset/ncbi_dataset/data/GCA_904813255.1/GCA_904813255.1_ERS5079789 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_002099425.1_dataset/ncbi_dataset/data/GCA_002099425.1/GCA_002099425.1_phaCin_unsw_v4.1_genomic.fna
-samtools faidx GCA_904810645.1_dataset/ncbi_dataset/data/GCA_904810645.1/GCA_904810645.1_ERS5079525 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004765945.2_dataset/ncbi_dataset/data/GCA_004765945.2/GCA_004765945.2_mPhaTri1_genomic.fna
-samtools faidx GCA_006410695.1_dataset/ncbi_dataset/data/GCA_006410695.1/GCA_006410695.1_MXD_genomic.fna
-samtools faidx GCA_004348235.1_dataset/ncbi_dataset/data/GCA_004348235.1/GCA_004348235.1_GSC_HSeal_1.0_genomic.fna
-samtools faidx GCA_004363495.1_dataset/ncbi_dataset/data/GCA_004363495.1/GCA_004363495.1_PhoPho_v1_BIUU_genomic.fna
-samtools faidx GCA_008692025.1_dataset/ncbi_dataset/data/GCA_008692025.1/GCA_008692025.1_mPhoSin1.pri_genomic.fna
-samtools faidx GCA_943737965.1_dataset/ncbi_dataset/data/GCA_943737965.1/GCA_943737965.1_PHOROB_genomic.fna
-samtools faidx GCA_023856395.1_dataset/ncbi_dataset/data/GCA_023856395.1/GCA_023856395.1_Psun_UM_1.1_genomic.fna
-samtools faidx GCA_004126475.3_dataset/ncbi_dataset/data/GCA_004126475.3/GCA_004126475.3_mPhyDis1.pri.v3_genomic.fna
-samtools faidx GCA_019186645.2_dataset/ncbi_dataset/data/GCA_019186645.2/GCA_019186645.2_TTU_PhHast_1.1_genomic.fna
-samtools faidx GCA_002837175.2_dataset/ncbi_dataset/data/GCA_002837175.2/GCA_002837175.2_ASM283717v2_genomic.fna
-samtools faidx GCA_002776525.5_dataset/ncbi_dataset/data/GCA_002776525.5/GCA_002776525.5_ASM277652v5_genomic.fna
-samtools faidx GCA_014108245.1_dataset/ncbi_dataset/data/GCA_014108245.1/GCA_014108245.1_mPipKuh1.p_genomic.fna
-samtools faidx GCA_903992545.1_dataset/ncbi_dataset/data/GCA_903992545.1/GCA_903992545.1_mPipPip1.1_genomic.fna
-samtools faidx GCA_023779675.1_dataset/ncbi_dataset/data/GCA_023779675.1/GCA_023779675.1_ASM2377967v1_genomic.fna
-samtools faidx GCA_904811035.1_dataset/ncbi_dataset/data/GCA_904811035.1/GCA_904811035.1_ERS5079582 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813785.1_dataset/ncbi_dataset/data/GCA_904813785.1/GCA_904813785.1_ERS5079842 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904811815.1_dataset/ncbi_dataset/data/GCA_904811815.1/GCA_904811815.1_ERS5079656 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813295.1_dataset/ncbi_dataset/data/GCA_904813295.1/GCA_904813295.1_ERS5079798 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_017311385.1_dataset/ncbi_dataset/data/GCA_017311385.1/GCA_017311385.1_HRRL_Platanista_gangetica_1.0_genomic.fna
-samtools faidx GCA_004363435.1_dataset/ncbi_dataset/data/GCA_004363435.1/GCA_004363435.1_PlaMin_v1_BIUU_genomic.fna
-samtools faidx GCA_004027715.1_dataset/ncbi_dataset/data/GCA_004027715.1/GCA_004027715.1_CalDon_v1_BIUU_genomic.fna
-samtools faidx GCA_002880775.3_dataset/ncbi_dataset/data/GCA_002880775.3/GCA_002880775.3_Susie_PABv2_genomic.fna
-samtools faidx GCA_028885625.1_dataset/ncbi_dataset/data/GCA_028885625.1/GCA_028885625.1_NHGRI_mPonPyg2-v1.1-hic.freeze_pri_genomic.fna
-samtools faidx GCA_011754075.1_dataset/ncbi_dataset/data/GCA_011754075.1/GCA_011754075.1_ASM1175407v1_genomic.fna
-samtools faidx GCA_028658325.1_dataset/ncbi_dataset/data/GCA_028658325.1/GCA_028658325.1_Potorous_gilbertii_HiC_genomic.fna
-samtools faidx GCA_904812075.1_dataset/ncbi_dataset/data/GCA_904812075.1/GCA_904812075.1_ERS5079564 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813305.1_dataset/ncbi_dataset/data/GCA_904813305.1/GCA_904813305.1_ERS5079793 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028534135.1_dataset/ncbi_dataset/data/GCA_028534135.1/GCA_028534135.1_Potos_flavus_HiC_genomic.fna
-samtools faidx GCA_019843815.1_dataset/ncbi_dataset/data/GCA_019843815.1/GCA_019843815.1_ASM1984381v1_genomic.fna
-samtools faidx GCA_016509475.2_dataset/ncbi_dataset/data/GCA_016509475.2/GCA_016509475.2_Fcat_Pben_1.1_paternal_pri_genomic.fna
-samtools faidx GCA_018403415.1_dataset/ncbi_dataset/data/GCA_018403415.1/GCA_018403415.1_P_iriomotensis_scaffold_01_genomic.fna
-samtools faidx GCA_022837055.1_dataset/ncbi_dataset/data/GCA_022837055.1/GCA_022837055.1_UM_Priviv_1.0_genomic.fna
-samtools faidx GCA_006410515.1_dataset/ncbi_dataset/data/GCA_006410515.1/GCA_006410515.1_PLG_genomic.fna
-samtools faidx GCA_004026925.3_dataset/ncbi_dataset/data/GCA_004026925.3/GCA_004026925.3_ProCapCap_v3_BIUU_UCD_genomic.fna
-samtools faidx GCA_028646535.1_dataset/ncbi_dataset/data/GCA_028646535.1/GCA_028646535.1_pl-1k_genomic.fna
-samtools faidx GCA_003258685.1_dataset/ncbi_dataset/data/GCA_003258685.1/GCA_003258685.1_Prosim_1.0_genomic.fna
-samtools faidx GCA_000956105.1_dataset/ncbi_dataset/data/GCA_000956105.1/GCA_000956105.1_Pcoq_1.0_genomic.fna
-samtools faidx GCA_017311185.1_dataset/ncbi_dataset/data/GCA_017311185.1/GCA_017311185.1_Proteles_cristatus_TS307_19_07_2019_genomic.fna
-samtools faidx GCA_907164565.1_dataset/ncbi_dataset/data/GCA_907164565.1/GCA_907164565.1_mPsaObe1.curated_primary_1811_genomic.fna
-samtools faidx GCA_904812015.1_dataset/ncbi_dataset/data/GCA_904812015.1/GCA_904812015.1_ERS5079567 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810615.1_dataset/ncbi_dataset/data/GCA_904810615.1/GCA_904810615.1_ERS5079523 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813655.1_dataset/ncbi_dataset/data/GCA_904813655.1/GCA_904813655.1_ERS5079829 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904814015.1_dataset/ncbi_dataset/data/GCA_904814015.1/GCA_904814015.1_ERS5079864 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810565.1_dataset/ncbi_dataset/data/GCA_904810565.1/GCA_904810565.1_ERS5079532 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028646575.1_dataset/ncbi_dataset/data/GCA_028646575.1/GCA_028646575.1_Pseudocheirus_occidentalis_HiC_genomic.fna
-samtools faidx GCA_904813195.1_dataset/ncbi_dataset/data/GCA_904813195.1/GCA_904813195.1_ERS5079783 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810865.1_dataset/ncbi_dataset/data/GCA_904810865.1/GCA_904810865.1_ERS5079542 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810905.1_dataset/ncbi_dataset/data/GCA_904810905.1/GCA_904810905.1_ERS5079546 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_028646515.1_dataset/ncbi_dataset/data/GCA_028646515.1/GCA_028646515.1_Pseudochirops_corinnae_HiC_genomic.fna
-samtools faidx GCA_028627135.1_dataset/ncbi_dataset/data/GCA_028627135.1/GCA_028627135.1_Pseudochirops_cupreus_HiC_genomic.fna
-samtools faidx GCA_904813875.1_dataset/ncbi_dataset/data/GCA_904813875.1/GCA_904813875.1_ERS5079851 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904814125.1_dataset/ncbi_dataset/data/GCA_904814125.1/GCA_904814125.1_ERS5079877 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813045.1_dataset/ncbi_dataset/data/GCA_904813045.1/GCA_904813045.1_ERS5079767 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810725.1_dataset/ncbi_dataset/data/GCA_904810725.1/GCA_904810725.1_ERS5079540 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_003182575.1_dataset/ncbi_dataset/data/GCA_003182575.1/GCA_003182575.1_ASM318257v1_genomic.fna
-samtools faidx GCA_000465405.1_dataset/ncbi_dataset/data/GCA_000465405.1/GCA_000465405.1_ASM46540v1_genomic.fna
-samtools faidx GCA_021234165.1_dataset/ncbi_dataset/data/GCA_021234165.1/GCA_021234165.1_CSHL_Meso_final_genomic.fna
-samtools faidx GCA_004024605.1_dataset/ncbi_dataset/data/GCA_004024605.1/GCA_004024605.1_PteBra_v1_BIUU_genomic.fna
-samtools faidx GCA_000325575.1_dataset/ncbi_dataset/data/GCA_000325575.1/GCA_000325575.1_ASM32557v1_genomic.fna
-samtools faidx GCA_902729225.1_dataset/ncbi_dataset/data/GCA_902729225.1/GCA_902729225.1_Ma_sr-lr_union100_genomic.fna
-samtools faidx GCA_014363405.1_dataset/ncbi_dataset/data/GCA_014363405.1/GCA_014363405.1_P_pselaphon_scaffold_01_genomic.fna
-samtools faidx GCA_028533765.1_dataset/ncbi_dataset/data/GCA_028533765.1/GCA_028533765.1_Pteropus_rufus_HiC_genomic.fna
-samtools faidx GCA_000151845.2_dataset/ncbi_dataset/data/GCA_000151845.2/GCA_000151845.2_Pvam_2.0_genomic.fna
-samtools faidx GCA_003327715.1_dataset/ncbi_dataset/data/GCA_003327715.1/GCA_003327715.1_PumCon1.0_genomic.fna
-samtools faidx GCA_014898765.1_dataset/ncbi_dataset/data/GCA_014898765.1/GCA_014898765.1_PumYag_genomic.fna
-samtools faidx GCA_947044825.1_dataset/ncbi_dataset/data/GCA_947044825.1/GCA_947044825.1_Saimaa ringed seal draft genome_genomic.fna
-samtools faidx GCA_028975605.1_dataset/ncbi_dataset/data/GCA_028975605.1/GCA_028975605.1_PSIB_hic_genomic.fna
-samtools faidx GCA_004024825.1_dataset/ncbi_dataset/data/GCA_004024825.1/GCA_004024825.1_PygNem_v1_BIUU_genomic.fna
-samtools faidx GCA_023764695.1_dataset/ncbi_dataset/data/GCA_023764695.1/GCA_023764695.1_ASM2376469v1_genomic.fna
-samtools faidx GCA_004026565.1_dataset/ncbi_dataset/data/GCA_004026565.1/GCA_004026565.1_RanTarSib_v1_BIUU_genomic.fna
-samtools faidx GCA_019903745.1_dataset/ncbi_dataset/data/GCA_019903745.1/GCA_019903745.1_ULRtarCaribou_2_genomic.fna
-samtools faidx GCA_006410735.1_dataset/ncbi_dataset/data/GCA_006410735.1/GCA_006410735.1_SNB_genomic.fna
-samtools faidx GCA_015227675.2_dataset/ncbi_dataset/data/GCA_015227675.2/GCA_015227675.2_mRatBN7.2_genomic.fna
-samtools faidx GCA_011064425.1_dataset/ncbi_dataset/data/GCA_011064425.1/GCA_011064425.1_Rrattus_CSIRO_v1_genomic.fna
-samtools faidx GCA_006410935.1_dataset/ncbi_dataset/data/GCA_006410935.1/GCA_006410935.1_BHR_genomic.fna
-samtools faidx GCA_019844195.1_dataset/ncbi_dataset/data/GCA_019844195.1/GCA_019844195.1_ASM1984419v1_genomic.fna
-samtools faidx GCA_028646465.1_dataset/ncbi_dataset/data/GCA_028646465.1/GCA_028646465.1_Rhinoceros_unicornis_HiC_genomic.fna
-samtools faidx GCA_004115265.3_dataset/ncbi_dataset/data/GCA_004115265.3/GCA_004115265.3_mRhiFer1_v1.p_genomic.fna
-samtools faidx GCA_001888835.1_dataset/ncbi_dataset/data/GCA_001888835.1/GCA_001888835.1_ASM188883v1_genomic.fna
-samtools faidx GCA_001698545.2_dataset/ncbi_dataset/data/GCA_001698545.2/GCA_001698545.2_ASM169854v2_genomic.fna
-samtools faidx GCA_007565055.1_dataset/ncbi_dataset/data/GCA_007565055.1/GCA_007565055.1_ASM756505v1_genomic.fna
-samtools faidx GCA_023764705.1_dataset/ncbi_dataset/data/GCA_023764705.1/GCA_023764705.1_ASM2376470v1_genomic.fna
-samtools faidx GCA_009823505.1_dataset/ncbi_dataset/data/GCA_009823505.1/GCA_009823505.1_RhiPru_1.0_genomic.fna
-samtools faidx GCA_010120015.1_dataset/ncbi_dataset/data/GCA_010120015.1/GCA_010120015.1_ASM1012001v1_genomic.fna
-samtools faidx GCA_904812095.1_dataset/ncbi_dataset/data/GCA_904812095.1/GCA_904812095.1_ERS5079572 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_019843965.1_dataset/ncbi_dataset/data/GCA_019843965.1/GCA_019843965.1_ASM1984396v1_genomic.fna
-samtools faidx GCA_014176215.1_dataset/ncbi_dataset/data/GCA_014176215.1/GCA_014176215.1_mRouAeg1.p_genomic.fna
-samtools faidx GCA_015472975.1_dataset/ncbi_dataset/data/GCA_015472975.1/GCA_015472975.1_rouLes_1.0_genomic.fna
-samtools faidx GCA_028533395.1_dataset/ncbi_dataset/data/GCA_028533395.1/GCA_028533395.1_Rousettus_madagascariensis_HiC_genomic.fna
-samtools faidx GCA_004024885.1_dataset/ncbi_dataset/data/GCA_004024885.1/GCA_004024885.1_SagImp_v1_BIUU_genomic.fna
-samtools faidx GCA_021498475.1_dataset/ncbi_dataset/data/GCA_021498475.1/GCA_021498475.1_ASM2149847v1_genomic.fna
-samtools faidx GCA_004024985.1_dataset/ncbi_dataset/data/GCA_004024985.1/GCA_004024985.1_SaiTat_v1_BIUU_genomic.fna
-samtools faidx GCA_016699345.2_dataset/ncbi_dataset/data/GCA_016699345.2/GCA_016699345.2_BCM_Sbol_2.1_genomic.fna
-samtools faidx GCA_009761245.1_dataset/ncbi_dataset/data/GCA_009761245.1/GCA_009761245.1_GSC_monkey_1.0_genomic.fna
-samtools faidx GCA_902635505.1_dataset/ncbi_dataset/data/GCA_902635505.1/GCA_902635505.1_mSarHar1.11_genomic.fna
-samtools faidx GCA_004024925.1_dataset/ncbi_dataset/data/GCA_004024925.1/GCA_004024925.1_ScaAqu_v1_BIUU_genomic.fna
-samtools faidx GCA_902686445.2_dataset/ncbi_dataset/data/GCA_902686445.2/GCA_902686445.2_mSciCar1.2_genomic.fna
-samtools faidx GCA_020740815.1_dataset/ncbi_dataset/data/GCA_020740815.1/GCA_020740815.1_VCOM_Snig_1.0_genomic.fna
-samtools faidx GCA_902686455.2_dataset/ncbi_dataset/data/GCA_902686455.2/GCA_902686455.2_mSciVul1.2_genomic.fna
-samtools faidx GCA_004025065.1_dataset/ncbi_dataset/data/GCA_004025065.1/GCA_004025065.1_SemEnt_v1_BIUU_genomic.fna
-samtools faidx GCA_904810585.1_dataset/ncbi_dataset/data/GCA_904810585.1/GCA_904810585.1_ERS5079901 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004025045.1_dataset/ncbi_dataset/data/GCA_004025045.1/GCA_004025045.1_SigHis_v1_BIUU_genomic.fna
-samtools faidx GCA_904814065.1_dataset/ncbi_dataset/data/GCA_904814065.1/GCA_904814065.1_ERS5079870 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813735.1_dataset/ncbi_dataset/data/GCA_904813735.1/GCA_904813735.1_ERS5079839 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810895.1_dataset/ncbi_dataset/data/GCA_904810895.1/GCA_904810895.1_ERS5079554 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904814115.1_dataset/ncbi_dataset/data/GCA_904814115.1/GCA_904814115.1_ERS5079875 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904814045.1_dataset/ncbi_dataset/data/GCA_904814045.1/GCA_904814045.1_ERS5079868 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813645.1_dataset/ncbi_dataset/data/GCA_904813645.1/GCA_904813645.1_ERS5079828 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810975.1_dataset/ncbi_dataset/data/GCA_904810975.1/GCA_904810975.1_ERS5079560 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810655.1_dataset/ncbi_dataset/data/GCA_904810655.1/GCA_904810655.1_ERS5079524 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813665.1_dataset/ncbi_dataset/data/GCA_904813665.1/GCA_904813665.1_ERS5079831 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810755.1_dataset/ncbi_dataset/data/GCA_904810755.1/GCA_904810755.1_ERS5079536 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813265.1_dataset/ncbi_dataset/data/GCA_904813265.1/GCA_904813265.1_ERS5079791 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813715.1_dataset/ncbi_dataset/data/GCA_904813715.1/GCA_904813715.1_ERS5079841 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810625.1_dataset/ncbi_dataset/data/GCA_904810625.1/GCA_904810625.1_ERS5079520 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810705.1_dataset/ncbi_dataset/data/GCA_904810705.1/GCA_904810705.1_ERS5079533 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813775.1_dataset/ncbi_dataset/data/GCA_904813775.1/GCA_904813775.1_ERS5079840 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813815.1_dataset/ncbi_dataset/data/GCA_904813815.1/GCA_904813815.1_ERS5079845 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004363575.1_dataset/ncbi_dataset/data/GCA_004363575.1/GCA_004363575.1_SolPar_v1_BIUU_genomic.fna
-samtools faidx GCA_000181275.2_dataset/ncbi_dataset/data/GCA_000181275.2/GCA_000181275.2_SorAra2.0_genomic.fna
-samtools faidx GCA_026122425.1_dataset/ncbi_dataset/data/GCA_026122425.1/GCA_026122425.1_SorCin_1.0_genomic.fna
-samtools faidx GCA_028565675.1_dataset/ncbi_dataset/data/GCA_028565675.1/GCA_028565675.1_ASM2856567v1_genomic.fna
-samtools faidx GCA_007760645.1_dataset/ncbi_dataset/data/GCA_007760645.1/GCA_007760645.1_ASM776064v1_genomic.fna
-samtools faidx GCA_023170115.1_dataset/ncbi_dataset/data/GCA_023170115.1/GCA_023170115.1_Speothos_venaticus_v01_genomic.fna
-samtools faidx GCA_002406435.1_dataset/ncbi_dataset/data/GCA_002406435.1/GCA_002406435.1_ASM240643v1_genomic.fna
-samtools faidx GCA_904812975.1_dataset/ncbi_dataset/data/GCA_904812975.1/GCA_904812975.1_ERS5079765 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813855.1_dataset/ncbi_dataset/data/GCA_904813855.1/GCA_904813855.1_ERS5079848 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004023965.1_dataset/ncbi_dataset/data/GCA_004023965.1/GCA_004023965.1_SpiGra_v1_BIUU_genomic.fna
-samtools faidx GCA_023159085.1_dataset/ncbi_dataset/data/GCA_023159085.1/GCA_023159085.1_UWYO_SpInte_0.1_genomic.fna
-samtools faidx GCA_028646385.1_dataset/ncbi_dataset/data/GCA_028646385.1/GCA_028646385.1_Steno_bredanensis_HiC_genomic.fna
-samtools faidx GCA_904812005.1_dataset/ncbi_dataset/data/GCA_904812005.1/GCA_904812005.1_ERS5079569 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813245.1_dataset/ncbi_dataset/data/GCA_904813245.1/GCA_904813245.1_ERS5079788 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_014824575.2_dataset/ncbi_dataset/data/GCA_014824575.2/GCA_014824575.2_WHU_Shon_v2.1_genomic.fna
-samtools faidx GCA_024139225.1_dataset/ncbi_dataset/data/GCA_024139225.1/GCA_024139225.1_mSunEtr1.pri.cur_genomic.fna
-samtools faidx GCA_006229205.1_dataset/ncbi_dataset/data/GCA_006229205.1/GCA_006229205.1_meerkat_22Aug2017_6uvM2_HiC_genomic.fna
-samtools faidx GCA_905335845.1_dataset/ncbi_dataset/data/GCA_905335845.1/GCA_905335845.1_Sus_cebifrons.v1_genomic.fna
-samtools faidx GCA_000003025.6_dataset/ncbi_dataset/data/GCA_000003025.6/GCA_000003025.6_Sscrofa11.1_genomic.fna
-samtools faidx GCA_006408735.1_dataset/ncbi_dataset/data/GCA_006408735.1/GCA_006408735.1_CMD_genomic.fna
-samtools faidx GCA_015711505.1_dataset/ncbi_dataset/data/GCA_015711505.1/GCA_015711505.1_Sylvilagus_bachmani_HiC_genomic.fna
-samtools faidx GCA_028878055.1_dataset/ncbi_dataset/data/GCA_028878055.1/GCA_028878055.1_NHGRI_mSymSyn1-v1.1-hic.freeze_pri_genomic.fna
-samtools faidx GCA_902825105.1_dataset/ncbi_dataset/data/GCA_902825105.1/GCA_902825105.1_synceruscaffer_genomic.fna
-samtools faidx GCA_015852505.1_dataset/ncbi_dataset/data/GCA_015852505.1/GCA_015852505.1_mTacAcu1.pri_genomic.fna
-samtools faidx GCA_004025005.1_dataset/ncbi_dataset/data/GCA_004025005.1/GCA_004025005.1_TadBra_v1_BIUU_genomic.fna
-samtools faidx GCA_014898055.2_dataset/ncbi_dataset/data/GCA_014898055.2/GCA_014898055.2_MPIMG_talOcc4v2_genomic.fna
-samtools faidx GCA_023851605.1_dataset/ncbi_dataset/data/GCA_023851605.1/GCA_023851605.1_mTamTet1.pri_genomic.fna
-samtools faidx GCA_025594165.1_dataset/ncbi_dataset/data/GCA_025594165.1/GCA_025594165.1_ASM2559416v1_genomic.fna
-samtools faidx GCA_004024905.1_dataset/ncbi_dataset/data/GCA_004024905.1/GCA_004024905.1_TapInd_v1_BIUU_genomic.fna
-samtools faidx GCA_004025025.1_dataset/ncbi_dataset/data/GCA_004025025.1/GCA_004025025.1_TapTer_v1_BIUU_genomic.fna
-samtools faidx GCA_904813485.1_dataset/ncbi_dataset/data/GCA_904813485.1/GCA_904813485.1_ERS5079811 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_003697995.1_dataset/ncbi_dataset/data/GCA_003697995.1/GCA_003697995.1_ASM369799v1_genomic.fna
-samtools faidx GCA_003255815.1_dataset/ncbi_dataset/data/GCA_003255815.1/GCA_003255815.1_Tgel_1.0_genomic.fna
-samtools faidx GCA_024803745.1_dataset/ncbi_dataset/data/GCA_024803745.1/GCA_024803745.1_mThoBot1.0.p_genomic.fna
-samtools faidx GCA_004025085.1_dataset/ncbi_dataset/data/GCA_004025085.1/GCA_004025085.1_ThrSwi_v1_BIUU_genomic.fna
-samtools faidx GCA_007646695.3_dataset/ncbi_dataset/data/GCA_007646695.3/GCA_007646695.3_UniMelb_ThyCyn2.0_hybrid_assembly_genomic.fna
-samtools faidx GCA_904811155.1_dataset/ncbi_dataset/data/GCA_904811155.1/GCA_904811155.1_ERS5079583 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904813725.1_dataset/ncbi_dataset/data/GCA_904813725.1/GCA_904813725.1_ERS5079833 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_027943515.1_dataset/ncbi_dataset/data/GCA_027943515.1/GCA_027943515.1_T_osimensis_1.0_genomic.fna
-samtools faidx GCA_026826555.1_dataset/ncbi_dataset/data/GCA_026826555.1/GCA_026826555.1_mTolMat1_genomic.fna
-samtools faidx GCA_004024845.1_dataset/ncbi_dataset/data/GCA_004024845.1/GCA_004024845.1_TonSau_v1_BIUU_genomic.fna
-samtools faidx GCA_028533065.1_dataset/ncbi_dataset/data/GCA_028533065.1/GCA_028533065.1_Trachops_cirrhosus_HiC_genomic.fna
-samtools faidx GCA_009764315.1_dataset/ncbi_dataset/data/GCA_009764315.1/GCA_009764315.1_Tfra_2.0_genomic.fna
-samtools faidx GCA_023762245.1_dataset/ncbi_dataset/data/GCA_023762245.1/GCA_023762245.1_ASM2376224v1_genomic.fna
-samtools faidx GCA_006411685.1_dataset/ncbi_dataset/data/GCA_006411685.1/GCA_006411685.1_MTN_genomic.fna
-samtools faidx GCA_935064755.1_dataset/ncbi_dataset/data/GCA_935064755.1/GCA_935064755.1_mTraEur1.1_genomic.fna
-samtools faidx GCA_006410775.1_dataset/ncbi_dataset/data/GCA_006410775.1/GCA_006410775.1_LEK_genomic.fna
-samtools faidx GCA_006416875.1_dataset/ncbi_dataset/data/GCA_006416875.1/GCA_006416875.1_CME_genomic.fna
-samtools faidx GCA_006410495.1_dataset/ncbi_dataset/data/GCA_006410495.1/GCA_006410495.1_BUB_genomic.fna
-samtools faidx GCA_006411015.1_dataset/ncbi_dataset/data/GCA_006411015.1/GCA_006411015.1_STG_genomic.fna
-samtools faidx GCA_006410795.1_dataset/ncbi_dataset/data/GCA_006410795.1/GCA_006410795.1_GTK_genomic.fna
-samtools faidx GCA_004024965.2_dataset/ncbi_dataset/data/GCA_004024965.2/GCA_004024965.2_ASM402496v2_genomic.fna
-samtools faidx GCA_022376925.1_dataset/ncbi_dataset/data/GCA_022376925.1/GCA_022376925.1_ASM2237692v1_genomic.fna
-samtools faidx GCA_028551375.1_dataset/ncbi_dataset/data/GCA_028551375.1/GCA_028551375.1_Tremarctos_ornatus_HiC_genomic.fna
-samtools faidx GCA_000243295.1_dataset/ncbi_dataset/data/GCA_000243295.1/GCA_000243295.1_TriManLat1.0_genomic.fna
-samtools faidx GCA_904811895.1_dataset/ncbi_dataset/data/GCA_904811895.1/GCA_904811895.1_ERS5079657 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_011100635.1_dataset/ncbi_dataset/data/GCA_011100635.1/GCA_011100635.1_mTriVul1.pri_genomic.fna
-samtools faidx GCA_000181375.1_dataset/ncbi_dataset/data/GCA_000181375.1/GCA_000181375.1_ASM18137v1_genomic.fna
-samtools faidx GCA_000334495.1_dataset/ncbi_dataset/data/GCA_000334495.1/GCA_000334495.1_TupChi_1.0_genomic.fna
-samtools faidx GCA_026018925.1_dataset/ncbi_dataset/data/GCA_026018925.1/GCA_026018925.1_mTupTan1_genomic.fna
-samtools faidx GCA_003227395.1_dataset/ncbi_dataset/data/GCA_003227395.1/GCA_003227395.1_ASM322739v1_genomic.fna
-samtools faidx GCA_011762595.1_dataset/ncbi_dataset/data/GCA_011762595.1/GCA_011762595.1_mTurTru1.mat.Y_genomic.fna
-samtools faidx GCA_002564285.1_dataset/ncbi_dataset/data/GCA_002564285.1/GCA_002564285.1_Tym_barrerae_AO245_v1_genomic.fna
-samtools faidx GCA_023101885.1_dataset/ncbi_dataset/data/GCA_023101885.1/GCA_023101885.1_KIZ_TCIN_v1.0_genomic.fna
-samtools faidx GCA_003426925.1_dataset/ncbi_dataset/data/GCA_003426925.1/GCA_003426925.1_ASM342692v1_genomic.fna
-samtools faidx GCA_028551405.1_dataset/ncbi_dataset/data/GCA_028551405.1/GCA_028551405.1_Uromys_caudimaculatus_HiC_genomic.fna
-samtools faidx GCA_004024945.1_dataset/ncbi_dataset/data/GCA_004024945.1/GCA_004024945.1_UroGra_v1_BIUU_genomic.fna
-samtools faidx GCA_020975775.1_dataset/ncbi_dataset/data/GCA_020975775.1/GCA_020975775.1_gsc_jax_bbear_1.0_genomic.fna
-samtools faidx GCA_023065955.1_dataset/ncbi_dataset/data/GCA_023065955.1/GCA_023065955.1_UrsArc1.0_genomic.fna
-samtools faidx GCA_017311325.1_dataset/ncbi_dataset/data/GCA_017311325.1/GCA_017311325.1_ASM1731132v1_genomic.fna
-samtools faidx GCA_014364545.1_dataset/ncbi_dataset/data/GCA_014364545.1/GCA_014364545.1_U_thibetanus_scaffold_01_genomic.fna
-samtools faidx GCA_009660055.1_dataset/ncbi_dataset/data/GCA_009660055.1/GCA_009660055.1_ASM966005v1_genomic.fna
-samtools faidx GCA_028533085.1_dataset/ncbi_dataset/data/GCA_028533085.1/GCA_028533085.1_Varecia_variegata_HiC_genomic.fna
-samtools faidx GCA_000164845.5_dataset/ncbi_dataset/data/GCA_000164845.5/GCA_000164845.5_VicPac3.2_genomic.fna
-samtools faidx GCA_013265495.1_dataset/ncbi_dataset/data/GCA_013265495.1/GCA_013265495.1_ASM1326549v1_genomic.fna
-samtools faidx GCA_900497805.2_dataset/ncbi_dataset/data/GCA_900497805.2/GCA_900497805.2_bare-nosed wombat genome assembly_genomic.fna
-samtools faidx GCA_024500485.1_dataset/ncbi_dataset/data/GCA_024500485.1/GCA_024500485.1_ASM2450048v1_genomic.fna
-samtools faidx GCA_018345385.1_dataset/ncbi_dataset/data/GCA_018345385.1/GCA_018345385.1_ASM1834538v1_genomic.fna
-samtools faidx GCA_003160815.1_dataset/ncbi_dataset/data/GCA_003160815.1/GCA_003160815.1_VulVul2.2_genomic.fna
-samtools faidx GCA_904813435.1_dataset/ncbi_dataset/data/GCA_904813435.1/GCA_904813435.1_ERS5079809 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_904810785.1_dataset/ncbi_dataset/data/GCA_904810785.1/GCA_904810785.1_ERS5079544 MarsupialExonCaptKit_genomic.fna
-samtools faidx GCA_004024805.1_dataset/ncbi_dataset/data/GCA_004024805.1/GCA_004024805.1_XerIna_v1_BIUU_genomic.fna
-samtools faidx GCA_028644305.1_dataset/ncbi_dataset/data/GCA_028644305.1/GCA_028644305.1_Xerus_rutilus_HiC_genomic.fna
-samtools faidx GCA_009762305.2_dataset/ncbi_dataset/data/GCA_009762305.2/GCA_009762305.2_mZalCal1.pri.v2_genomic.fna
-samtools faidx GCA_004024765.1_dataset/ncbi_dataset/data/GCA_004024765.1/GCA_004024765.1_ZapHud_v1_BIUU_genomic.fna
-samtools faidx GCA_004364475.1_dataset/ncbi_dataset/data/GCA_004364475.1/GCA_004364475.1_ZipCav_v1_BIUU_genomic.fna
+samtools faidx GCA_904813335.1_dataset/ncbi_dataset/data/GCA_904813335.1/GCA_904813335.1_ERS5079794_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813175.1_dataset/ncbi_dataset/data/GCA_904813175.1/GCA_904813175.1_ERS5079784_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810915.1_dataset/ncbi_dataset/data/GCA_904810915.1/GCA_904810915.1_ERS5079555_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814085.1_dataset/ncbi_dataset/data/GCA_904814085.1/GCA_904814085.1_ERS5079871_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813565.1_dataset/ncbi_dataset/data/GCA_904813565.1/GCA_904813565.1_ERS5079823_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810635.1_dataset/ncbi_dataset/data/GCA_904810635.1/GCA_904810635.1_ERS5079535_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813635.1_dataset/ncbi_dataset/data/GCA_904813635.1/GCA_904813635.1_ERS5079827_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810935.1_dataset/ncbi_dataset/data/GCA_904810935.1/GCA_904810935.1_ERS5079557_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814075.1_dataset/ncbi_dataset/data/GCA_904814075.1/GCA_904814075.1_ERS5079872_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812045.1_dataset/ncbi_dataset/data/GCA_904812045.1/GCA_904812045.1_ERS5079571_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810735.1_dataset/ncbi_dataset/data/GCA_904810735.1/GCA_904810735.1_ERS5079539_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813165.1_dataset/ncbi_dataset/data/GCA_904813165.1/GCA_904813165.1_ERS5079780_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813155.1_dataset/ncbi_dataset/data/GCA_904813155.1/GCA_904813155.1_ERS5079779_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814315.1_dataset/ncbi_dataset/data/GCA_904814315.1/GCA_904814315.1_ERS5079895_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813065.1_dataset/ncbi_dataset/data/GCA_904813065.1/GCA_904813065.1_ERS5079774_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811975.1_dataset/ncbi_dataset/data/GCA_904811975.1/GCA_904811975.1_ERS5079573_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810665.1_dataset/ncbi_dataset/data/GCA_904810665.1/GCA_904810665.1_ERS5079519_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811095.1_dataset/ncbi_dataset/data/GCA_904811095.1/GCA_904811095.1_ERS5079576_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810795.1_dataset/ncbi_dataset/data/GCA_904810795.1/GCA_904810795.1_ERS5079553_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810685.1_dataset/ncbi_dataset/data/GCA_904810685.1/GCA_904810685.1_ERS5079522_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813375.1_dataset/ncbi_dataset/data/GCA_904813375.1/GCA_904813375.1_ERS5079800_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810675.1_dataset/ncbi_dataset/data/GCA_904810675.1/GCA_904810675.1_ERS5079526_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811055.1_dataset/ncbi_dataset/data/GCA_904811055.1/GCA_904811055.1_ERS5079588_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814135.1_dataset/ncbi_dataset/data/GCA_904814135.1/GCA_904814135.1_ERS5079874_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813795.1_dataset/ncbi_dataset/data/GCA_904813795.1/GCA_904813795.1_ERS5079844_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810525.1_dataset/ncbi_dataset/data/GCA_904810525.1/GCA_904810525.1_ERS5079531_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810555.1_dataset/ncbi_dataset/data/GCA_904810555.1/GCA_904810555.1_ERS5079521_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813945.1_dataset/ncbi_dataset/data/GCA_904813945.1/GCA_904813945.1_ERS5079853_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813095.1_dataset/ncbi_dataset/data/GCA_904813095.1/GCA_904813095.1_ERS5079771_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810955.1_dataset/ncbi_dataset/data/GCA_904810955.1/GCA_904810955.1_ERS5079559_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813185.1_dataset/ncbi_dataset/data/GCA_904813185.1/GCA_904813185.1_ERS5079781_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810745.1_dataset/ncbi_dataset/data/GCA_904810745.1/GCA_904810745.1_ERS5079541_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813465.1_dataset/ncbi_dataset/data/GCA_904813465.1/GCA_904813465.1_ERS5079812_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813915.1_dataset/ncbi_dataset/data/GCA_904813915.1/GCA_904813915.1_ERS5079856_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813395.1_dataset/ncbi_dataset/data/GCA_904813395.1/GCA_904813395.1_ERS5079802_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812085.1_dataset/ncbi_dataset/data/GCA_904812085.1/GCA_904812085.1_ERS5079574_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813385.1_dataset/ncbi_dataset/data/GCA_904813385.1/GCA_904813385.1_ERS5079801_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811145.1_dataset/ncbi_dataset/data/GCA_904811145.1/GCA_904811145.1_ERS5079581_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810875.1_dataset/ncbi_dataset/data/GCA_904810875.1/GCA_904810875.1_ERS5079545_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813425.1_dataset/ncbi_dataset/data/GCA_904813425.1/GCA_904813425.1_ERS5079805_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811175.1_dataset/ncbi_dataset/data/GCA_904811175.1/GCA_904811175.1_ERS5079591_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811015.1_dataset/ncbi_dataset/data/GCA_904811015.1/GCA_904811015.1_ERS5079592_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811005.1_dataset/ncbi_dataset/data/GCA_904811005.1/GCA_904811005.1_ERS5079593_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812165.1_dataset/ncbi_dataset/data/GCA_904812165.1/GCA_904812165.1_ERS5079680_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811945.1_dataset/ncbi_dataset/data/GCA_904811945.1/GCA_904811945.1_ERS5079672_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810835.1_dataset/ncbi_dataset/data/GCA_904810835.1/GCA_904810835.1_ERS5079548_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811075.1_dataset/ncbi_dataset/data/GCA_904811075.1/GCA_904811075.1_ERS5079595_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813145.1_dataset/ncbi_dataset/data/GCA_904813145.1/GCA_904813145.1_ERS5079778_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813115.1_dataset/ncbi_dataset/data/GCA_904813115.1/GCA_904813115.1_ERS5079777_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812025.1_dataset/ncbi_dataset/data/GCA_904812025.1/GCA_904812025.1_ERS5079575_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814235.1_dataset/ncbi_dataset/data/GCA_904814235.1/GCA_904814235.1_ERS5079886_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810545.1_dataset/ncbi_dataset/data/GCA_904810545.1/GCA_904810545.1_ERS5079527_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811165.1_dataset/ncbi_dataset/data/GCA_904811165.1/GCA_904811165.1_ERS5079578_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810885.1_dataset/ncbi_dataset/data/GCA_904810885.1/GCA_904810885.1_ERS5079550_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810575.1_dataset/ncbi_dataset/data/GCA_904810575.1/GCA_904810575.1_ERS5079529_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810855.1_dataset/ncbi_dataset/data/GCA_904810855.1/GCA_904810855.1_ERS5079551_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813865.1_dataset/ncbi_dataset/data/GCA_904813865.1/GCA_904813865.1_ERS5079850_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810995.1_dataset/ncbi_dataset/data/GCA_904810995.1/GCA_904810995.1_ERS5079580_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813925.1_dataset/ncbi_dataset/data/GCA_904813925.1/GCA_904813925.1_ERS5079858_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813975.1_dataset/ncbi_dataset/data/GCA_904813975.1/GCA_904813975.1_ERS5079861_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810695.1_dataset/ncbi_dataset/data/GCA_904810695.1/GCA_904810695.1_ERS5079528_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812055.1_dataset/ncbi_dataset/data/GCA_904812055.1/GCA_904812055.1_ERS5079568_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810535.1_dataset/ncbi_dataset/data/GCA_904810535.1/GCA_904810535.1_ERS5079530_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813685.1_dataset/ncbi_dataset/data/GCA_904813685.1/GCA_904813685.1_ERS5079832_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814285.1_dataset/ncbi_dataset/data/GCA_904814285.1/GCA_904814285.1_ERS5079889_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814355.1_dataset/ncbi_dataset/data/GCA_904814355.1/GCA_904814355.1_ERS5079900_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811085.1_dataset/ncbi_dataset/data/GCA_904811085.1/GCA_904811085.1_ERS5079587_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810775.1_dataset/ncbi_dataset/data/GCA_904810775.1/GCA_904810775.1_ERS5079538_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811115.1_dataset/ncbi_dataset/data/GCA_904811115.1/GCA_904811115.1_ERS5079589_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813125.1_dataset/ncbi_dataset/data/GCA_904813125.1/GCA_904813125.1_ERS5079776_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813405.1_dataset/ncbi_dataset/data/GCA_904813405.1/GCA_904813405.1_ERS5079804_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810985.1_dataset/ncbi_dataset/data/GCA_904810985.1/GCA_904810985.1_ERS5079579_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810945.1_dataset/ncbi_dataset/data/GCA_904810945.1/GCA_904810945.1_ERS5079558_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813695.1_dataset/ncbi_dataset/data/GCA_904813695.1/GCA_904813695.1_ERS5079834_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811025.1_dataset/ncbi_dataset/data/GCA_904811025.1/GCA_904811025.1_ERS5079584_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810715.1_dataset/ncbi_dataset/data/GCA_904810715.1/GCA_904810715.1_ERS5079534_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810595.1_dataset/ncbi_dataset/data/GCA_904810595.1/GCA_904810595.1_ERS5079518_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813075.1_dataset/ncbi_dataset/data/GCA_904813075.1/GCA_904813075.1_ERS5079772_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813225.1_dataset/ncbi_dataset/data/GCA_904813225.1/GCA_904813225.1_ERS5079786_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813055.1_dataset/ncbi_dataset/data/GCA_904813055.1/GCA_904813055.1_ERS5079768_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813455.1_dataset/ncbi_dataset/data/GCA_904813455.1/GCA_904813455.1_ERS5079808_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811125.1_dataset/ncbi_dataset/data/GCA_904811125.1/GCA_904811125.1_ERS5079577_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814245.1_dataset/ncbi_dataset/data/GCA_904814245.1/GCA_904814245.1_ERS5079890_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810845.1_dataset/ncbi_dataset/data/GCA_904810845.1/GCA_904810845.1_ERS5079552_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813745.1_dataset/ncbi_dataset/data/GCA_904813745.1/GCA_904813745.1_ERS5079837_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812595.1_dataset/ncbi_dataset/data/GCA_904812595.1/GCA_904812595.1_ERS5079733_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812605.1_dataset/ncbi_dataset/data/GCA_904812605.1/GCA_904812605.1_ERS5079725_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812245.1_dataset/ncbi_dataset/data/GCA_904812245.1/GCA_904812245.1_ERS5079689_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812235.1_dataset/ncbi_dataset/data/GCA_904812235.1/GCA_904812235.1_ERS5079690_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812675.1_dataset/ncbi_dataset/data/GCA_904812675.1/GCA_904812675.1_ERS5079727_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812525.1_dataset/ncbi_dataset/data/GCA_904812525.1/GCA_904812525.1_ERS5079722_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812425.1_dataset/ncbi_dataset/data/GCA_904812425.1/GCA_904812425.1_ERS5079702_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812495.1_dataset/ncbi_dataset/data/GCA_904812495.1/GCA_904812495.1_ERS5079714_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812475.1_dataset/ncbi_dataset/data/GCA_904812475.1/GCA_904812475.1_ERS5079709_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812335.1_dataset/ncbi_dataset/data/GCA_904812335.1/GCA_904812335.1_ERS5079697_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812265.1_dataset/ncbi_dataset/data/GCA_904812265.1/GCA_904812265.1_ERS5079692_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812505.1_dataset/ncbi_dataset/data/GCA_904812505.1/GCA_904812505.1_ERS5079715_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812765.1_dataset/ncbi_dataset/data/GCA_904812765.1/GCA_904812765.1_ERS5079736_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812275.1_dataset/ncbi_dataset/data/GCA_904812275.1/GCA_904812275.1_ERS5079693_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812225.1_dataset/ncbi_dataset/data/GCA_904812225.1/GCA_904812225.1_ERS5079695_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810825.1_dataset/ncbi_dataset/data/GCA_904810825.1/GCA_904810825.1_ERS5079547_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813505.1_dataset/ncbi_dataset/data/GCA_904813505.1/GCA_904813505.1_ERS5079815_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814195.1_dataset/ncbi_dataset/data/GCA_904814195.1/GCA_904814195.1_ERS5079883_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813025.1_dataset/ncbi_dataset/data/GCA_904813025.1/GCA_904813025.1_ERS5079766_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814185.1_dataset/ncbi_dataset/data/GCA_904814185.1/GCA_904814185.1_ERS5079882_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813955.1_dataset/ncbi_dataset/data/GCA_904813955.1/GCA_904813955.1_ERS5079854_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813325.1_dataset/ncbi_dataset/data/GCA_904813325.1/GCA_904813325.1_ERS5079796_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813255.1_dataset/ncbi_dataset/data/GCA_904813255.1/GCA_904813255.1_ERS5079789_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810645.1_dataset/ncbi_dataset/data/GCA_904810645.1/GCA_904810645.1_ERS5079525_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811035.1_dataset/ncbi_dataset/data/GCA_904811035.1/GCA_904811035.1_ERS5079582_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813785.1_dataset/ncbi_dataset/data/GCA_904813785.1/GCA_904813785.1_ERS5079842_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811815.1_dataset/ncbi_dataset/data/GCA_904811815.1/GCA_904811815.1_ERS5079656_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813295.1_dataset/ncbi_dataset/data/GCA_904813295.1/GCA_904813295.1_ERS5079798_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812075.1_dataset/ncbi_dataset/data/GCA_904812075.1/GCA_904812075.1_ERS5079564_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813305.1_dataset/ncbi_dataset/data/GCA_904813305.1/GCA_904813305.1_ERS5079793_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812015.1_dataset/ncbi_dataset/data/GCA_904812015.1/GCA_904812015.1_ERS5079567_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810615.1_dataset/ncbi_dataset/data/GCA_904810615.1/GCA_904810615.1_ERS5079523_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813655.1_dataset/ncbi_dataset/data/GCA_904813655.1/GCA_904813655.1_ERS5079829_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814015.1_dataset/ncbi_dataset/data/GCA_904814015.1/GCA_904814015.1_ERS5079864_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810565.1_dataset/ncbi_dataset/data/GCA_904810565.1/GCA_904810565.1_ERS5079532_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813195.1_dataset/ncbi_dataset/data/GCA_904813195.1/GCA_904813195.1_ERS5079783_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810865.1_dataset/ncbi_dataset/data/GCA_904810865.1/GCA_904810865.1_ERS5079542_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810905.1_dataset/ncbi_dataset/data/GCA_904810905.1/GCA_904810905.1_ERS5079546_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813875.1_dataset/ncbi_dataset/data/GCA_904813875.1/GCA_904813875.1_ERS5079851_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814125.1_dataset/ncbi_dataset/data/GCA_904814125.1/GCA_904814125.1_ERS5079877_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813045.1_dataset/ncbi_dataset/data/GCA_904813045.1/GCA_904813045.1_ERS5079767_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810725.1_dataset/ncbi_dataset/data/GCA_904810725.1/GCA_904810725.1_ERS5079540_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812095.1_dataset/ncbi_dataset/data/GCA_904812095.1/GCA_904812095.1_ERS5079572_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810585.1_dataset/ncbi_dataset/data/GCA_904810585.1/GCA_904810585.1_ERS5079901_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814065.1_dataset/ncbi_dataset/data/GCA_904814065.1/GCA_904814065.1_ERS5079870_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813735.1_dataset/ncbi_dataset/data/GCA_904813735.1/GCA_904813735.1_ERS5079839_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810895.1_dataset/ncbi_dataset/data/GCA_904810895.1/GCA_904810895.1_ERS5079554_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814115.1_dataset/ncbi_dataset/data/GCA_904814115.1/GCA_904814115.1_ERS5079875_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904814045.1_dataset/ncbi_dataset/data/GCA_904814045.1/GCA_904814045.1_ERS5079868_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813645.1_dataset/ncbi_dataset/data/GCA_904813645.1/GCA_904813645.1_ERS5079828_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810975.1_dataset/ncbi_dataset/data/GCA_904810975.1/GCA_904810975.1_ERS5079560_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810655.1_dataset/ncbi_dataset/data/GCA_904810655.1/GCA_904810655.1_ERS5079524_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813665.1_dataset/ncbi_dataset/data/GCA_904813665.1/GCA_904813665.1_ERS5079831_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810755.1_dataset/ncbi_dataset/data/GCA_904810755.1/GCA_904810755.1_ERS5079536_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813265.1_dataset/ncbi_dataset/data/GCA_904813265.1/GCA_904813265.1_ERS5079791_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813715.1_dataset/ncbi_dataset/data/GCA_904813715.1/GCA_904813715.1_ERS5079841_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810625.1_dataset/ncbi_dataset/data/GCA_904810625.1/GCA_904810625.1_ERS5079520_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810705.1_dataset/ncbi_dataset/data/GCA_904810705.1/GCA_904810705.1_ERS5079533_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813775.1_dataset/ncbi_dataset/data/GCA_904813775.1/GCA_904813775.1_ERS5079840_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813815.1_dataset/ncbi_dataset/data/GCA_904813815.1/GCA_904813815.1_ERS5079845_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812975.1_dataset/ncbi_dataset/data/GCA_904812975.1/GCA_904812975.1_ERS5079765_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813855.1_dataset/ncbi_dataset/data/GCA_904813855.1/GCA_904813855.1_ERS5079848_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904812005.1_dataset/ncbi_dataset/data/GCA_904812005.1/GCA_904812005.1_ERS5079569_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813245.1_dataset/ncbi_dataset/data/GCA_904813245.1/GCA_904813245.1_ERS5079788_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813485.1_dataset/ncbi_dataset/data/GCA_904813485.1/GCA_904813485.1_ERS5079811_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811155.1_dataset/ncbi_dataset/data/GCA_904811155.1/GCA_904811155.1_ERS5079583_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813725.1_dataset/ncbi_dataset/data/GCA_904813725.1/GCA_904813725.1_ERS5079833_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904811895.1_dataset/ncbi_dataset/data/GCA_904811895.1/GCA_904811895.1_ERS5079657_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904813435.1_dataset/ncbi_dataset/data/GCA_904813435.1/GCA_904813435.1_ERS5079809_MarsupialExonCaptKit_genomic.fna
+samtools faidx GCA_904810785.1_dataset/ncbi_dataset/data/GCA_904810785.1/GCA_904810785.1_ERS5079544_MarsupialExonCaptKit_genomic.fna
+
+
+
