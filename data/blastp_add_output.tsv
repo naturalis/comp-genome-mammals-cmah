@@ -1,0 +1,30 @@
+# BLASTP 2.9.0+
+# Query: sp|O97598.1|CMAH_PANTR RecName: Full=Cytidine monophosphate-N-acetylneuraminic acid hydroxylase; Short=CMP-N-acetylneuraminic acid hydroxylase; AltName: Full=CMP-N-acetylneuraminate monooxygenase; AltName: Full=CMP-Neu5Ac hydroxylase; AltName: Full=CMP-NeuAc hydroxylase
+# Database: ../genomes/GCF_011100555.1_dataset/ncbi_dataset/data/GCF_011100555.1/protein.faa
+# 0 hits found
+# BLAST processed 1 queries
+# BLASTP 2.9.0+
+# Query: sp|O97598.1|CMAH_PANTR RecName: Full=Cytidine monophosphate-N-acetylneuraminic acid hydroxylase; Short=CMP-N-acetylneuraminic acid hydroxylase; AltName: Full=CMP-N-acetylneuraminate monooxygenase; AltName: Full=CMP-Neu5Ac hydroxylase; AltName: Full=CMP-NeuAc hydroxylase
+# Database: ../genomes/GCF_000215625.1_dataset/ncbi_dataset/data/GCF_000215625.1/protein.faa
+# 0 hits found
+# BLAST processed 1 queries
+# BLASTP 2.9.0+
+# Query: sp|O97598.1|CMAH_PANTR RecName: Full=Cytidine monophosphate-N-acetylneuraminic acid hydroxylase; Short=CMP-N-acetylneuraminic acid hydroxylase; AltName: Full=CMP-N-acetylneuraminate monooxygenase; AltName: Full=CMP-Neu5Ac hydroxylase; AltName: Full=CMP-NeuAc hydroxylase
+# Database: ../genomes/GCF_000002275.2_dataset/ncbi_dataset/data/GCF_000002275.2/protein.faa
+# Fields: query id, subject id, evalue, bit score, % identity, alignment length, mismatches, gap opens, s. start, s. end
+# 2 hits found
+sp|O97598.1|CMAH_PANTR	XP_007657215.1	5.14e-134	396	64.686	303	105	1	4	304
+sp|O97598.1|CMAH_PANTR	XP_007657215.1	7.51e-24	103	68.116	69	22	0	327	395
+# BLAST processed 1 queries
+# BLASTP 2.9.0+
+# Query: sp|O97598.1|CMAH_PANTR RecName: Full=Cytidine monophosphate-N-acetylneuraminic acid hydroxylase; Short=CMP-N-acetylneuraminic acid hydroxylase; AltName: Full=CMP-N-acetylneuraminate monooxygenase; AltName: Full=CMP-Neu5Ac hydroxylase; AltName: Full=CMP-NeuAc hydroxylase
+# Database: ../genomes/GCF_000235385.1_dataset/ncbi_dataset/data/GCF_000235385.1/protein.faa
+# Fields: query id, subject id, evalue, bit score, % identity, alignment length, mismatches, gap opens, s. start, s. end
+# 1 hits found
+sp|O97598.1|CMAH_PANTR	XP_010336412.1	8.44e-26	111	76.119	67	16	0	11	77
+# BLAST processed 1 queries
+# BLASTP 2.9.0+
+# Query: sp|O97598.1|CMAH_PANTR RecName: Full=Cytidine monophosphate-N-acetylneuraminic acid hydroxylase; Short=CMP-N-acetylneuraminic acid hydroxylase; AltName: Full=CMP-N-acetylneuraminate monooxygenase; AltName: Full=CMP-Neu5Ac hydroxylase; AltName: Full=CMP-NeuAc hydroxylase
+# Database: ../genomes/GCF_009914755.1_dataset/ncbi_dataset/data/GCF_009914755.1/protein.faa
+# 0 hits found
+# BLAST processed 1 queries
