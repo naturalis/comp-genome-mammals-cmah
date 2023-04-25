@@ -155,3 +155,49 @@ sp|O97598.1|CMAH_PANTR	JAABKN010000108.1	9.88e-17	30.4	59.091	22	9	0	358043	3581
 # 1 hits found
 sp|O97598.1|CMAH_PANTR	JAABKC010001502.1	1.23e-23	112	85.484	62	9	0	638497	638682
 # BLAST processed 1 queries
+# TBLASTN 2.9.0+
+# Query: sp|O97598.1|CMAH_PANTR RecName: Full=Cytidine monophosphate-N-acetylneuraminic acid hydroxylase; Short=CMP-N-acetylneuraminic acid hydroxylase; AltName: Full=CMP-N-acetylneuraminate monooxygenase; AltName: Full=CMP-Neu5Ac hydroxylase; AltName: Full=CMP-NeuAc hydroxylase
+# Database: ../genomes/GCA_006409035.1_dataset/ncbi_dataset/data/GCA_006409035.1/GCA_006409035.1_CMJ_genomic.fna
+# Fields: query id, subject id, evalue, bit score, % identity, alignment length, mismatches, gap opens, s. start, s. end
+# 10 hits found
+sp|O97598.1|CMAH_PANTR	SJXU01028369.1	1.81e-31	137	96.875	64	2	0	155549	155358
+sp|O97598.1|CMAH_PANTR	SJXU01028369.1	1.21e-28	128	88.406	69	8	0	169430	169224
+sp|O97598.1|CMAH_PANTR	SJXU01028369.1	1.03e-24	115	91.667	60	5	0	132977	132798
+sp|O97598.1|CMAH_PANTR	SJXU01028369.1	3.49e-22	107	88.333	60	5	1	149385	149212
+sp|O97598.1|CMAH_PANTR	SJXU01028369.1	4.73e-19	98.2	95.745	47	2	0	144090	143950
+sp|O97598.1|CMAH_PANTR	SJXU01028369.1	5.24e-18	94.7	95.652	46	2	0	148165	148028
+sp|O97598.1|CMAH_PANTR	SJXU01028369.1	3.02e-17	92.4	84.314	51	8	0	137041	136889
+sp|O97598.1|CMAH_PANTR	SJXU01028369.1	3.22e-15	85.9	82.609	46	8	0	131118	130981
+sp|O97598.1|CMAH_PANTR	SJXU01028369.1	2.75e-13	79.7	92.500	40	3	0	126453	126334
+sp|O97598.1|CMAH_PANTR	SJXU01356605.1	6.67e-11	68.9	73.171	41	11	0	173	295
+# BLAST processed 1 queries
+# TBLASTN 2.9.0+
+# Query: sp|O97598.1|CMAH_PANTR RecName: Full=Cytidine monophosphate-N-acetylneuraminic acid hydroxylase; Short=CMP-N-acetylneuraminic acid hydroxylase; AltName: Full=CMP-N-acetylneuraminate monooxygenase; AltName: Full=CMP-Neu5Ac hydroxylase; AltName: Full=CMP-NeuAc hydroxylase
+# Database: ../genomes/GCF_014898055.2_dataset/ncbi_dataset/data/GCF_014898055.2/GCF_014898055.2_MPIMG_talOcc4v2_genomic.fna
+# Fields: query id, subject id, evalue, bit score, % identity, alignment length, mismatches, gap opens, s. start, s. end
+# 9 hits found
+sp|O97598.1|CMAH_PANTR	NW_023602073.1	8.18e-31	134	95.312	64	3	0	14294196	14294005
+sp|O97598.1|CMAH_PANTR	NW_023602073.1	1.39e-26	121	83.824	68	11	0	14314862	14314659
+sp|O97598.1|CMAH_PANTR	NW_023602073.1	2.01e-21	105	96.078	51	2	0	14291869	14291717
+sp|O97598.1|CMAH_PANTR	NW_023602073.1	2.52e-19	98.6	61.364	88	23	2	14275754	14275524
+sp|O97598.1|CMAH_PANTR	NW_023602073.1	8.81e-19	96.7	93.617	47	3	0	14286338	14286198
+sp|O97598.1|CMAH_PANTR	NW_023602073.1	1.77e-18	95.9	97.826	46	1	0	14289162	14289025
+sp|O97598.1|CMAH_PANTR	NW_023602073.1	1.51e-14	83.2	92.500	40	3	0	14267859	14267740
+sp|O97598.1|CMAH_PANTR	NW_023602073.1	5.71e-13	78.2	80.952	42	8	0	14274024	14273899
+sp|O97598.1|CMAH_PANTR	NW_023602073.1	9.39e-11	70.9	78.049	41	9	0	14309479	14309357
+# BLAST processed 1 queries
+# TBLASTN 2.9.0+
+# Query: sp|O97598.1|CMAH_PANTR RecName: Full=Cytidine monophosphate-N-acetylneuraminic acid hydroxylase; Short=CMP-N-acetylneuraminic acid hydroxylase; AltName: Full=CMP-N-acetylneuraminate monooxygenase; AltName: Full=CMP-Neu5Ac hydroxylase; AltName: Full=CMP-NeuAc hydroxylase
+# Database: ../genomes/GCA_004026945.1_dataset/ncbi_dataset/data/GCA_004026945.1/GCA_004026945.1_OviCan_v1_BIUU_genomic.fna
+# Fields: query id, subject id, evalue, bit score, % identity, alignment length, mismatches, gap opens, s. start, s. end
+# 9 hits found
+sp|O97598.1|CMAH_PANTR	PVIS010010943.1	1.89e-31	137	96.875	64	2	0	7025	6834
+sp|O97598.1|CMAH_PANTR	PVIS010010943.1	5.97e-29	129	88.406	69	8	0	21444	21238
+sp|O97598.1|CMAH_PANTR	PVIS010010943.1	8.11e-22	107	91.071	56	5	0	3004	2837
+sp|O97598.1|CMAH_PANTR	PVIS010025803.1	1.52e-24	115	90.000	60	6	0	15747	15926
+sp|O97598.1|CMAH_PANTR	PVIS010025803.1	2.33e-19	99.0	97.872	47	1	0	3510	3650
+sp|O97598.1|CMAH_PANTR	PVIS010025803.1	1.68e-18	96.3	97.826	46	1	0	637	774
+sp|O97598.1|CMAH_PANTR	PVIS010025803.1	5.57e-18	94.7	86.275	51	7	0	11079	11231
+sp|O97598.1|CMAH_PANTR	PVIS010025803.1	2.70e-15	86.3	86.364	44	6	0	17612	17743
+sp|O97598.1|CMAH_PANTR	PVIS010025803.1	1.24e-13	80.9	92.500	40	3	0	22434	22553
+# BLAST processed 1 queries
